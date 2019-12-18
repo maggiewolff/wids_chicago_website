@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://widschicago.org" # Change this to the base url after netlify deploy, e.g. "https://cardiff2019.satrdays.org/"
+baseurl = "http://widschicago.org" # Change this to the base url after netlify deploy, e.g. "https://cardiff2019.satrdays.org/"
 languageCode = "en-us"
 title = "satRday"
 theme = ["hugo-satrdays-theme", "hugo-agency-theme"]
@@ -21,7 +21,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
   name = "WiDS Chicago"
-  description = "Women in Data Science conference in Chicago"
+  description = "A conference showcasing the achievements of female data scientists, both locally and abroad"
   # email = "your@email.com"
 
   # Link custom assets relative to /static
@@ -80,7 +80,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   [params.hero]
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
-    title = "satRday [My City]"
+    title = "Women in Data Science: Chicago"
     subtitle = "A conference for users of the R Language on [Conference Date]"
     bg = true
     buttonText = "Tell me more"
@@ -161,7 +161,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   
   # Call for papers section
   [params.callforpapers]
-    enable = true
+    enable = false
     title = "Call For Papers"
     bg = false
     CfSpage = "/test3490"
@@ -172,7 +172,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   [params.hackathon]
     enable = true
     bg = false
-    title = "Hackathon"
+    title = "Data Dive"
     subtitle="Can you _Hack_ it?"
     brief1="You _can_ put markdown in the briefs section" 
     brief2="But you __MUST__ hardcode html links <a href= 'www.google.com' > google  </a> for further info."
@@ -184,7 +184,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
   # Talk [Portfolio] section
   [params.portfolio]
-    enable = true
+    enable =false
     # All projects defined in their own files. You can find example projects
     # at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
     # at the root of this Hugo site.
@@ -207,7 +207,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
   # Important Dates [About] section
   [params.about]
-    enable = true
+    enable = false
     title = "Important Dates"
     subtitle = "Be prepared!"
     endpoint = "Conference"
@@ -267,11 +267,11 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       position = "Organiser Position 1"
       reportsTo = ""
       livesIn = "[Munich, Germany](#some-maps-url)"
-      scope = [
-        "Role 1 for [thing 1](#)",
-        "Role 2 for [thing 2](#)",
-        "Role 3 for [thing 3](#)"
-      ]
+      #scope = [
+       # "Role 1 for [thing 1](#)",
+        #"Role 2 for [thing 2](#)",
+        #"Role 3 for [thing 3](#)"
+      #]
       # For bio markdown and even multiline strings are available.
       bio = """I do things,
       and stuff"""
