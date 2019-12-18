@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://eventtemplate.satrdays.org" # Change this to the base url after netlify deploy, e.g. "https://cardiff2019.satrdays.org/"
+baseurl = "https://widschicago.org" # Change this to the base url after netlify deploy, e.g. "https://cardiff2019.satrdays.org/"
 languageCode = "en-us"
 title = "satRday"
 theme = ["hugo-satrdays-theme", "hugo-agency-theme"]
@@ -20,8 +20,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
-  name = "satRday [My City]"
-  description = "R conference in [My City]"
+  name = "WiDS Chicago"
+  description = "Women in Data Science conference in Chicago"
   # email = "your@email.com"
 
   # Link custom assets relative to /static
@@ -71,8 +71,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
     # postpended links
     [[menu.postpend]]
-      url = "http://satrdays.org/"
-      name = "satRdays.org"
+      url = "http://widsconference.org/"
+      name = "widsconference.org"
       weight = 10
 
 
@@ -263,7 +263,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # Suggestion: Image size should be at least 360px*360px or the alignment might be affected.
     [[params.team.members]]
       img = "faceholder.png"
-      name = "Organiser Name 1"
+      name = "Abby Smith"
       position = "Organiser Position 1"
       reportsTo = ""
       livesIn = "[Munich, Germany](#some-maps-url)"
