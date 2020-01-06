@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "http://widschicago.org/" # Change this to the base url after netlify deploy, e.g. "https://cardiff2019.satrdays.org/"
 languageCode = "en-us"
-title = "satRday"
+title = "WiDS: Chicago"
 theme = ["hugo-satrdays-theme", "hugo-agency-theme"]
 
 # Enter your tracking code to enable Google Analytics
@@ -21,7 +21,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
   name = "WiDS Chicago"
-  description = "A conference showcasing the achievements of female data scientists, both locally and abroad"
+  description = "A conference showcasing female data scientists in Chicago"
   # email = "your@email.com"
 
   # Link custom assets relative to /static
@@ -81,7 +81,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
     title = "Women in Data Science: Chicago"
-    subtitle = "A conference for users of the R Language on [Conference Date]"
+    subtitle = "A conference showcasing female data scientists in Chicago on March 6"
     bg = true
     buttonText = "Tell me more"
 
@@ -97,13 +97,13 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     [[params.services.row.list]]
       icon = "fa-clock-o"
       title = "Details"
-      description = "[Conference Date] at [Conference Location]"
+      description = "March 6, 4:00-8:00 PM CST at Roosevelt University, Congress Room"
       url = "#"
 
     [[params.services.row.list]]
       icon = "fa-laptop"
       title = "Hands on"
-      description = "Practical applications and workshop sessions"
+      description = "Participate in the Data Dive for the Illinois Red Cross"
       url = "#"
 
     [[params.services.row.list]]
@@ -120,8 +120,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
     [[params.services.row.list]]
       icon = "fa-money"
-      title = "Affordable"
-      description = "Only [£30]"
+      title = "No Cost!"
+      description = "Yep, that's right: Free!"
       url = "#"
 
     [[params.services.row.list]]
@@ -242,9 +242,9 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   # Location section
   [params.location]
     enable = true
-    title = "Location title"
+    title = "Location"
     bg = true
-    iframesrc = "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12770.336629178193!2d174.7680403!3d-36.8524341!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x868a73f26ed3e621!2sDepartment+of+Statistics%2C+University+of+Auckland!5e0!3m2!1sen!2suk!4v1533231461829"
+  iframesrc= "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2970.767769736558!2d-87.62730558455895!3d41.876342679222326!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2ca21507764f%3A0x44cc0732016145b4!2sRoosevelt%20University!5e0!3m2!1sen!2sus!4v1578328289404!5m2!1sen!2sus" 
 
   # Team section
   [params.team]
@@ -264,27 +264,25 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     [[params.team.members]]
       img = "faceholder.png"
       name = "Abby Smith"
-      position = "Organiser Position 1"
+      position = "Organiser "
       reportsTo = ""
-      livesIn = "[Munich, Germany](#some-maps-url)"
+      #livesIn = "[Munich, Germany](#some-maps-url)"
       #scope = [
        # "Role 1 for [thing 1](#)",
         #"Role 2 for [thing 2](#)",
         #"Role 3 for [thing 3](#)"
       #]
       # For bio markdown and even multiline strings are available.
-      bio = """I do things,
-      and stuff"""
+      bio = """PhD Candidate at Northwestern University, Department of Statistics"""
       social = [
-        ["fa-twitter", "#"],
+        ["fa-twitter", "#flabbysmith"],
         ["fa-github", "#"],
-        ["fa-linkedin", "#"]
       ]
 
     [[params.team.members]]
       img = "faceholder.png"
-      name = "Organiser Name 2"
-      position = "Organiser Position 2"
+      name = "Jane Zanzig"
+      position = "Organiser"
       social = [
         ["fa-twitter", "#"],
         ["fa-github", "#"],
