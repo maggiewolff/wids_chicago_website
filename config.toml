@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://widschicago.org/" # Change this to the base url after netlify deploy, e.g. "https://cardiff2019.satrdays.org/"
+baseurl = "www.widschicago.org/" # Change this to the base url after netlify deploy, e.g. "https://cardiff2019.satrdays.org/"
 languageCode = "en-us"
 title = "WiDS: Chicago"
 theme = ["hugo-satrdays-theme", "hugo-agency-theme"]
@@ -20,7 +20,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
-  name = "WiDS Chicago"
+  name = "WiDS: Chicago"
   description = "A conference showcasing female data scientists in Chicago"
   # email = "your@email.com"
 
@@ -114,8 +114,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
     [[params.services.row.list]]
       icon = "fa-users"
-      title = "Community Lead"
-      description = "Community organised, community focussed"
+      title = "Community Led"
+      description = "Community organised, community focused"
       url = "#"
 
     [[params.services.row.list]]
@@ -133,7 +133,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   # Register section
   # You only need ONE of these active
   [params.tito]
-    enable = true
+    enable = false
     title = "Register"
     bg = true
     accountevent = "ultimateconf/2013"
@@ -151,7 +151,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       # Supply this string as the value to `eid` above
 
   [params.tickettailor]
-    enable = true
+    enable = false
     title = "Register"
     bg = true
     eventviewid = "162430"
@@ -264,7 +264,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     [[params.team.members]]
       img = "faceholder.png"
       name = "Abby Smith"
-      position = "Organiser "
+      position = "Organizer"
       reportsTo = ""
       #livesIn = "[Munich, Germany](#some-maps-url)"
       #scope = [
@@ -282,7 +282,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     [[params.team.members]]
       img = "faceholder.png"
       name = "Jane Zanzig"
-      position = "Organiser"
+      position = "Organizer"
       social = [
         ["fa-twitter", "#"],
         ["fa-github", "#"],
@@ -291,8 +291,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
     [[params.team.members]]
       img = "faceholder.png"
-      name = "Organiser Name 3"
-      position = "Organiser Position 3"
+      name = "Abby Stevens"
+      position = "Organizer"
       social = [
         ["fa-twitter", "#"],
         ["fa-github", "#"],
@@ -358,7 +358,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # add some custom JS script to finish the implementation.
     # postURL = "https://example.com/mailout/"
 
-    email = "your@email.com"
+    email = "als1@u.northwestern.edu"
 
     # Success and error message overwrite for async contact form
     #thanks = "Thank you for awesomely contacting us."
