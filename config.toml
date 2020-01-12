@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "www.widschicago.org/" # Change this to the base url after netlify deploy, e.g. "https://cardiff2019.satrdays.org/"
+baseurl = "https://widschicago.org/" # Change this to the base url after netlify deploy, e.g. "https://cardiff2019.satrdays.org/"
 languageCode = "en-us"
 title = "WiDS: Chicago"
 theme = ["hugo-satrdays-theme", "hugo-agency-theme"]
