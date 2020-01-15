@@ -1,7 +1,8 @@
 # Global settings applied to the whole site.
 [build]
-  command = "hugo"
-
+  publish = "public"
+  command = "hugo --gc --minify"
+  
 [context.production.environment]
   HUGO_VERSION = "0.46"
 
