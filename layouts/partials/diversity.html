@@ -1,0 +1,23 @@
+{{ "<!-- Diversity -->" | safeHTML }}
+<section id="diversity" {{ if .Site.Params.diversity.bg }}
+class="bg-light-gray"
+{{ end }}>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading">{{ with .Site.Params.diversity.title }}{{ . | markdownify }}{{ end }}</h2>
+      </div>
+      <div>
+        <p>
+		The Women in Data Science (WiDS) Conference at Stanford University seeks to inspire, educate, and support all participants from across the world in an inclusive, safe, and welcoming environment. We expect and trust that all participants will abide by this Code of Conduct at all WiDS Stanford conference events. 
+ 
+		Stanford University values integrity, diversity, respect, freedom of inquiry and expression, trust, honesty and fairness and strives to integrate these values into its education, research, healthcare, and business practices. Stanford University is an institution dedicated to the pursuit of excellence and facilitation of an environment that fosters this goal. Central to that institutional commitment is the principle of treating every community member and collaborator fairly and with respect, and embracing diversity and inclusion. Stanford University does not discriminate on the basis of race, religious creed, color, national origin, ancestry, physical or mental disability, medical condition, genetic information, marital status, age, sex, sexual orientation, gender, gender identity, gender expression, military status, veteran status, or any other characteristic protected by law. 
+ 
+		All participants are expected to be considerate, respectful, and collaborative, and will refrain from demeaning, discriminatory, or harassing behavior and speech.  Participants are expected to be mindful of their surroundings and of their fellow participants. This means that any intimidating, harassing, abusive or demeaning conduct of any kind will not be tolerated. Notify the WiDS organizer or any WiDS staff member if you are subject to or have observed any such behavior. Participants asked to stop any unacceptable behavior are expected to comply immediately.  Participants violating this Code of Conduct may be asked to leave the event at the sole discretion of the organizers.  In such cases, no refunds will be given.  
+ 
+		This Code of Conduct is based on Stanford University Code of Conduct, and works by the Grace Hopper Celebration and the Game Developers Conference. 
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
