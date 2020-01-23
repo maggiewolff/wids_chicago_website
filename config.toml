@@ -1,5 +1,5 @@
 # Site settings
-url = "https://widschicago.org/" # Change this to the base url after netlify deploy, e.g. "https://cardiff2019.satrdays.org/"
+baseurl = "https://widschicago.org/" # Change this to the base url after netlify deploy, e.g. "https://cardiff2019.satrdays.org/"
 languageCode = "en-us"
 title = "WiDS: Chicago"
 theme = ["hugo-satrdays-theme", "hugo-agency-theme"]
@@ -364,7 +364,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       link = "#"
   
   [params.diversity]
-    enable = true
+    enable = false
     title = "Diversity"
     bg = true
 
