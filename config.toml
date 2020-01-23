@@ -364,7 +364,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       link = "#"
   
   [params.diversity]
-    enable = false
+    enable = true
     title = "Diversity"
     bg = true
 
