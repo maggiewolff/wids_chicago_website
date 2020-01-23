@@ -174,7 +174,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     bg = false
     title = "Data Dive"
     subtitle="Can you _Hack_ it?"
-    brief1="Come work on a data dive for the Illinois Red Cross" 
+    brief1="Come join us in Evanston as we work on a data science problem for the Illinois Red Cross!" 
     brief2="But you __MUST__ hardcode html links <a href= 'www.google.com' > google  </a> for further info."
     location= "TGS Commons"
     dates = "March 5, 2019"
@@ -275,8 +275,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       # For bio markdown and even multiline strings are available.
       bio = """PhD Candidate at Northwestern University, Department of Statistics"""
       social = [
-        ["fa-twitter", "#flabbysmith"],
-        ["fa-github", "#"],
+        ["fa-twitter", "https://twitter.com/flabbysmith"],
+        ["fa-github", "https://github.com/abbylsmith"],
       ]
 
     [[params.team.members]]
@@ -348,11 +348,11 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # Replace them with your clients's logos.
     # Suggestion: .svg in the size of 280px*80px looks good
     [[params.clients]]
-      logo = "envato.jpg"
+      logo = "aptitive-logo.jpg"
       link = "#"
 
     [[params.clients]]
-      logo = "designmodo.jpg"
+      logo = "cdac-logo.jpg"
       link = "#"
 
     [[params.clients]]
