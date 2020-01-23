@@ -4,3 +4,9 @@
 [submodule "themes/hugo-satrdays-theme"]
 	path = themes/hugo-satrdays-theme
 	url = https://github.com/satRdays/hugo-satrdays-theme
+[submodule "themes/hugo-satrdays-theeme"]
+	path = themes/hugo-satrdays-theeme
+	url = https://github.com/satRdays/hugo-satrdays-theme
+[submodule "themes/hugo-satrdays-theme2"]
+	path = themes/hugo-satrdays-theme
+	url = https://github.com/satRdays/hugo-satrdays-theme
