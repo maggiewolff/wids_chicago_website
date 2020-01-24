@@ -280,7 +280,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       ]
 
     [[params.team.members]]
-      img = "faceholder.png"
+      img = "Jane_headshot.jpg"
       name = "Jane Zanzig"
       position = "Organizer"
       bio = """Senior Data Scientist and Designer at IDEO"""
@@ -291,7 +291,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       ]
 
     [[params.team.members]]
-      img = "faceholder.png"
+      img = "Abby_stevens_headshot.jpg"
       name = "Abby Stevens"
       position = "Organizer"
       bio = """PhD Candidate at University of Chicago, Department of Statistics"""
@@ -312,7 +312,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       ]
       
       [[params.team.members]]
-      img = "faceholder.png"
+      img = "Sophie_headshot.jpg"
       name = "Sophie Hu"
       
       position = "Organizer"
