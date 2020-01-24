@@ -144,7 +144,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     enable = true
     title = "Register"
     bg = true
-    eid = "32416000129" 
+    eid = "91174211521" 
       # Go to https://www.eventbrite.co.uk/support/articles/en_US/How_To/how-to-sell-eventbrite-tickets-registrations-on-your-website-using-embeddable-widgets?lg=en_GB 
       # Follow instructions to discover your 'Website Integration' embeddable iframe
       # Take ONLY the numeric string between "eid=" and "&ref=etckt"
@@ -311,9 +311,10 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
         ["fa-linkedin", "#"]
       ]
       
-               [[params.team.members]]
+      [[params.team.members]]
       img = "faceholder.png"
       name = "Sophie Hu"
+      
       position = "Organizer"
       bio = """"""
       social = [
