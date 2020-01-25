@@ -265,18 +265,12 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       img = "Abby_headshot.jpg"
       name = "Abby Smith"
       position = "WiDS Ambassador"
-      reportsTo = ""
-      #livesIn = "[Munich, Germany](#some-maps-url)"
-      #scope = [
-       # "Role 1 for [thing 1](#)",
-        #"Role 2 for [thing 2](#)",
-        #"Role 3 for [thing 3](#)"
-      #]
       # For bio markdown and even multiline strings are available.
       bio = """PhD Candidate at Northwestern University, Department of Statistics"""
       social = [
         ["fa-twitter", "https://twitter.com/flabbysmith"],
         ["fa-github", "https://github.com/abbylsmith"],
+        ["fa-rss", "https://abbylsmith.me"]
       ]
 
     [[params.team.members]]
@@ -296,7 +290,9 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       social = [
         ["fa-twitter", "https://twitter.com/abbystvns"],
         ["fa-github", "https://github.com/abbystvns"],
-        ["fa-linkedin", "https://www.linkedin.com/in/abbyestevens/"]
+        ["fa-linkedin", "https://www.linkedin.com/in/abbyestevens/"],
+        ["fa-instagram", "https://www.instagram.com/abbbyst/"],
+        ["fa-rss", "https://abbystevens.com"]
       ]
          [[params.team.members]]
       img = "Mena_headshot.jpg"
