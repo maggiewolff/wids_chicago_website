@@ -97,13 +97,13 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     [[params.services.row.list]]
       icon = "fa-clock-o"
       title = "Details"
-      description = "March 6, 4:00-8:00 PM CST at Roosevelt University, Congress Room"
+      description = "March 6, 4:30-8:00 PM CST at Roosevelt University, Congress Room"
       url = "#"
 
     [[params.services.row.list]]
       icon = "fa-laptop"
       title = "Hands on"
-      description = "Participate in the Data Dive for the Illinois Red Cross"
+      description = "Participate in the Data Dive for the Northern Illinois Red Cross"
       url = "#"
 
     [[params.services.row.list]]
@@ -115,7 +115,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     [[params.services.row.list]]
       icon = "fa-users"
       title = "Community Led"
-      description = "Community organised, community focused"
+      description = "Community organized, community focused"
       url = "#"
 
     [[params.services.row.list]]
@@ -174,13 +174,13 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     bg = false
     title = "Data Dive"
     subtitle="Can you _Hack_ it?"
-    brief1="Come join us in Evanston as we work on a data science problem for the Illinois Red Cross!" 
+    brief1="Come join us in Evanston as explore a data science question for the Northern Illinois Red Cross!" 
     brief2="But you __MUST__ hardcode html links <a href= 'www.google.com' > google  </a> for further info."
     location= "TGS Commons"
     dates = "March 5, 2019"
-    times= "13:00-17:30"  
-    website_name="google"
-    website_url="www.google.com"
+    times= "4:00-8:00 pm"  
+    #website_name="google"
+    #website_url="www.google.com"
 
   # Talk [Portfolio] section
   [params.portfolio]
@@ -414,7 +414,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
   # Footer section
   [params.footer]
-    enable = true
+    enable = false
     copyright = "Published under the Apache License 2.0."
 
     [[params.footer.social]]
