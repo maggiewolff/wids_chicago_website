@@ -266,7 +266,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       name = "Abby Smith"
       position = "WiDS Ambassador"
       # For bio markdown and even multiline strings are available.
-      bio = """PhD Candidate at Northwestern University, Department of Statistics"""
+      bio = """PhD Candidate in Statistics \n Northwestern"""
       social = [
         ["fa-twitter", "https://twitter.com/flabbysmith"],
         ["fa-github", "https://github.com/abbylsmith"],
@@ -277,7 +277,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       img = "Jane_headshot.jpg"
       name = "Jane Zanzig"
       position = "WiDS Ambassador"
-      bio = """Senior Data Scientist and Designer at IDEO"""
+      bio = """Senior Data Scientist and Designer \n IDEO"""
       social = [
         ["fa-linkedin", "https://www.linkedin.com/in/jane-zanzig/"]
       ]
@@ -286,7 +286,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       img = "Abby_stevens_headshot.jpg"
       name = "Abby Stevens"
       position = "WiDS Ambassador"
-      bio = """PhD Candidate at University of Chicago, Department of Statistics"""
+      bio = """PhD Candidate in Statistics \n Northwestern"""
       social = [
         ["fa-twitter", "https://twitter.com/abbystvns"],
         ["fa-github", "https://github.com/abbystvns"],
@@ -298,18 +298,17 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       img = "Mena_headshot.jpg"
       name = "Mena Whalen"
       position = "WiDS Ambassador"
-      bio = """PhD Candidate at Northwestern University, Department of Statistics"""
+      bio = """PhD Candidate in Statistics \n Northwestern"""
       social = [
-        ["fa-twitter", "#"],
-        ["fa-github", "#"],
-        ["fa-linkedin", "#"]
+        ["fa-linkedin", "https://www.linkedin.com/in/mena-whalen-07290b174"],
+        ["fa-rss", "https://menawhalen.com/""]
       ]
       
       [[params.team.members]]
       img = "Sophie_headshot.jpg"
       name = "Sophie Hu"
       position = "WiDS Ambassador"
-      bio = """Masters Student in Data Science at University of Chicago"""
+      bio = """Masters Student in Data Science \n University of Chicago"""
       social = [
         ["fa-linkedin", "https://www.linkedin.com/in/shuang-hu-73a685b8/"]
       ]
@@ -319,11 +318,9 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       img = "Jess_headshot.jpg"
       name = "Jess Freaner"
       position = "WiDS Ambassador"
-      bio = """Data Scientist and Designer at IDEO"""
+      bio = """Senior Data Scientist and Designer \n IDEO"""
       social = [
-        ["fa-twitter", "#"],
-        ["fa-github", "#"],
-        ["fa-linkedin", "#"]
+        ["fa-linkedin", "https://www.linkedin.com/in/jessfreaner"]
       ]
 
 
