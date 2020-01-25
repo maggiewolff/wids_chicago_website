@@ -285,9 +285,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       position = "Organizer"
       bio = """Senior Data Scientist and Designer at IDEO"""
       social = [
-        ["fa-twitter", "#"],
-        ["fa-github", "#"],
-        ["fa-linkedin", "#"]
+        ["fa-linkedin", "https://www.linkedin.com/in/jane-zanzig/"]
       ]
 
     [[params.team.members]]
@@ -296,9 +294,9 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       position = "Organizer"
       bio = """PhD Candidate at University of Chicago, Department of Statistics"""
       social = [
-        ["fa-twitter", "#"],
-        ["fa-github", "#"],
-        ["fa-linkedin", "#"]
+        ["fa-twitter", "https://twitter.com/abbystvns"],
+        ["fa-github", "https://github.com/abbystvns"],
+        ["fa-linkedin", "https://www.linkedin.com/in/abbyestevens/"]
       ]
          [[params.team.members]]
       img = "faceholder.png"
@@ -314,13 +312,10 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       [[params.team.members]]
       img = "Sophie_headshot.jpg"
       name = "Sophie Hu"
-      
       position = "Organizer"
-      bio = """"""
+      bio = """Masters Student in Data Science at University of Chicago"""
       social = [
-        ["fa-twitter", "#"],
-        ["fa-github", "#"],
-        ["fa-linkedin", "#"]
+        ["fa-linkedin", "https://www.linkedin.com/in/shuang-hu-73a685b8/"]
       ]
       
             
@@ -328,7 +323,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       img = "faceholder.png"
       name = "Jess Freaner"
       position = "Organizer"
-      bio = """"""
+      bio = """Data Scientist and Designer at IDEO"""
       social = [
         ["fa-twitter", "#"],
         ["fa-github", "#"],
@@ -350,19 +345,13 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # Suggestion: .svg in the size of 280px*80px looks good
     [[params.clients]]
       logo = "aptitive-logo.jpg"
-      link = "#"
+      link = "https://aptitive.com/"
 
     [[params.clients]]
       logo = "cdac-logo.jpg"
-      link = "#"
+      link = "https://cdac.uchicago.edu/"
 
-    [[params.clients]]
-      logo = "themeforest.jpg"
-      link = "#"
-
-    [[params.clients]]
-      logo = "creative-market.jpg"
-      link = "#"
+ 
   
   [params.diversity]
     enable = true
