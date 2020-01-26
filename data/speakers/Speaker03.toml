@@ -1,0 +1,10 @@
+img = "meta_headshot.jpg"
+name = "Meta S. Brown"
+organisation = "A4Brown, Inc."
+role = "President"
+social = [
+        ["fa-twitter", "#"],
+        ["fa-github", "#"],
+        ["fa-linkedin", "#"],
+        ["fa-globe", "#"]
+      ]

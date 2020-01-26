@@ -286,7 +286,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       img = "Abby_stevens_headshot.jpg"
       name = "Abby Stevens"
       position = "WiDS Ambassador"
-      bio = """PhD Candidate in Statistics <br/> Northwestern"""
+      bio = """PhD Candidate in Statistics <br/> University of Chicago"""
       social = [
         ["fa-twitter", "https://twitter.com/abbystvns"],
         ["fa-github", "https://github.com/abbystvns"],

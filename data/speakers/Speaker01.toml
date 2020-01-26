@@ -1,10 +1,7 @@
-img = "brecia_young.jfif"
+img = "brecia_young.jpg"
 name = "Brecia Young"
 organisation = "Civis Analytics"
 role = "Senior Applied Data Scientist"
 social = [
-        ["fa-twitter", "#"],
-        ["fa-github", "#"],
-        ["fa-linkedin", "#"],
-        ["fa-globe", "#"]
+        ["fa-linkedin", "https://www.linkedin.com/in/breciayoung"],
       ]

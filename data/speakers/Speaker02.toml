@@ -3,5 +3,5 @@ name = "Stephanie Kirmer"
 organisation = "Journera"
 role = "Senior Data Scentist"
 social = [
-        ["fa-twitter", "#"],
+        ["fa-twitter", "https://twitter.com/data_stephanie?lang=en"],
       ]

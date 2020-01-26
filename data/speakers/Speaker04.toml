@@ -1,0 +1,10 @@
+img = "liz_headshot.jpg"
+name = "Elisabeth Moyer"
+organisation = "University of Chicago "
+role = "Associate Professor, Atomspheric Science"
+social = [
+        ["fa-twitter", "#"],
+        ["fa-github", "#"],
+        ["fa-linkedin", "#"],
+        ["fa-globe", "#"]
+      ]
