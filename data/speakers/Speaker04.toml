@@ -3,8 +3,5 @@ name = "Elisabeth Moyer"
 organisation = "University of Chicago "
 role = "Associate Professor, Atomspheric Science"
 social = [
-        ["fa-twitter", "#"],
-        ["fa-github", "#"],
-        ["fa-linkedin", "#"],
-        ["fa-globe", "#"]
+        ["fa-rss", "http://geosci.uchicago.edu/~moyer/MoyerWebsite/Home%20Page/HomePage.html"]
       ]
