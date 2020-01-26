@@ -104,31 +104,31 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       icon = "fa-laptop"
       title = "Hands on"
       description = "Participate in the Data Dive for the American Red Cross, Greater Chicago Area"
-      url = "#hackathon"
+      url = "https://widschicago.org/#hackathon"
 
     [[params.services.row.list]]
       icon = "fa-graduation-cap"
       title = "Learning"
       description = "Gain knowledge from your peers and experienced professionals"
-      url = "#"
+      url = "https://widschicago.org/#team"
 
     [[params.services.row.list]]
       icon = "fa-users"
       title = "Community Led"
       description = "Community organized, community focused"
-      url = "#team"
+      url = "https://widschicago.org/#team"
 
     [[params.services.row.list]]
       icon = "fa-money"
       title = "No Cost!"
       description = "Yep, that's right: Free!"
-      url = "#"
+      url = "https://widschicago.org/#eventbrite"
 
     [[params.services.row.list]]
       icon = "fa-universal-access"
       title = "Accessible"
       description = "Inclusive, supportive and respectful environment"
-      url = "#"
+      url = "https://widschicago.org/#diversity"
 
   # Register section
   # You only need ONE of these active
