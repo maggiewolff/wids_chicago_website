@@ -103,8 +103,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     [[params.services.row.list]]
       icon = "fa-laptop"
       title = "Hands on"
-      description = "Participate in the Data Dive for the Northern Illinois Red Cross"
-      url = "#"
+      description = "Participate in the Data Dive for the American Red Cross, Greater Chicago Area"
+      url = "#hackathon"
 
     [[params.services.row.list]]
       icon = "fa-graduation-cap"
@@ -116,7 +116,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       icon = "fa-users"
       title = "Community Led"
       description = "Community organized, community focused"
-      url = "#"
+      url = "#team"
 
     [[params.services.row.list]]
       icon = "fa-money"
@@ -174,8 +174,9 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     bg = false
     title = "Data Dive"
     subtitle="Can you _Hack_ it?"
-    brief1="Come join us in Evanston as explore a data science question for the Northern Illinois Red Cross!" 
-    brief2="But you __MUST__ hardcode html links <a href= 'www.google.com' > google  </a> for further info."
+    brief1="Come join us in Evanston as explore a data science question for the Northern Illinois Red Cross, the day before WiDS: Chicago 2020!" 
+    brief2 = "Sponsored by Northwestern Women in Statistics (WIST)"
+    #brief2="But you __MUST__ hardcode html links <a href= 'www.google.com' > google  </a> for further info."
     location= "TGS Commons"
     dates = "March 5, 2019"
     times= "4:00-8:00 pm"  
