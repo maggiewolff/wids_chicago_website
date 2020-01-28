@@ -173,12 +173,12 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     enable = true
     bg = false
     title = "Data Dive"
-    subtitle="Can you _Hack_ it?"
+    subtitle="A collaborative mini-hackathon for social good"
     brief1="Come join us in Evanston as we explore a data science question for the Northern Illinois Red Cross, the day before WiDS: Chicago 2020!" 
-    brief2 = "Sponsored by Northwestern Women in Statistics (WIST)"
+    brief2 = "**ALL GENDERS** are encouraged to participate. Sponsored by Northwestern Women in Statistics (WIST)."
     #brief2="But you __MUST__ hardcode html links <a href= 'www.google.com' > google  </a> for further info."
-    location= "TGS Commons"
     dates = "March 5, 2019"
+    location= "[TGS Commons](https://goo.gl/maps/HcVm4psYWFSaDPWG6)"
     times= "4:00-8:00 pm"  
     #website_name="google"
     #website_url="www.google.com"
