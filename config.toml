@@ -174,7 +174,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     bg = false
     title = "Data Dive"
     subtitle="A collaborative mini-hackathon for social good"
-    brief1="Come join us in Evanston as we explore a data science question for the Northern Illinois Red Cross, the day before WiDS: Chicago 2020!" 
+    brief1="Come join us in Evanston as we explore a data science question for the Greater Chicago chapter of the American Red Cross, the day before WiDS: Chicago 2020!" 
     brief2 = "**ALL GENDERS** are encouraged to participate. Sponsored by Northwestern Women in Statistics (WIST)."
     #brief2="But you __MUST__ hardcode html links <a href= 'www.google.com' > google  </a> for further info."
     dates = "March 5, 2019"
