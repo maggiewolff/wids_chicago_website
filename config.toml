@@ -349,6 +349,12 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     [[params.clients]]
       logo = "cdac-logo.jpg"
       link = "https://cdac.uchicago.edu/"
+      
+    
+    [[params.clients]]
+      logo = "bayer_logo.jpg"
+      link = "https://www.bayer.com/en/crop-science-innovations-data-science.aspx/"
+
 
  
   
