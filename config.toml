@@ -352,7 +352,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     title = "WiDS Code of Conduct"
     bg = true
     
-    [params.home]
+  [params.home]
     enable = true
     title = "Home"
     bg = true
