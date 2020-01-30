@@ -349,8 +349,14 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   
   [params.diversity]
     enable = true
-    title = "Diversity"
+    title = "WiDS Code of Conduct"
     bg = true
+    
+    [params.home]
+    enable = true
+    title = "Home"
+    bg = true
+
 
   # Contact section
   [params.contact]

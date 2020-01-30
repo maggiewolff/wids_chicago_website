@@ -37,8 +37,13 @@
   {{ partial "schedule.html" . }}
   {{ end }}
 
+
   {{ if .Site.Params.about.enable }}
   {{ partial "about.html" . }}
+  {{ end }}
+  
+  {{ if .Site.Params.home.enable }}
+  {{ partial "home.html" . }}
   {{ end }}
 
   {{ if .Site.Params.location.enable }}
