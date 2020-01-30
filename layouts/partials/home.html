@@ -1,0 +1,19 @@
+{{ "<!-- Home -->" | safeHTML }}
+<section id="home" {{ if .Site.Params.home.bg }}
+
+{{ end }}>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading">{{ with .Site.Params.home.title }}{{ . | markdownify }}{{ end }}</h2>
+      </div>
+      <div>
+        <p>
+		<b> WiDS: Chicago </b> is an independent event organized to coincide with the annual <a href="http://www.widsconference.org">Global Women in Data Science (WiDS) Conference  </a>held at Stanford University and an estimated 150+ locations worldwide. 
+		
+		<b> All genders </b> are invited to attend WiDS regional events, which features outstanding women doing outstanding work.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>

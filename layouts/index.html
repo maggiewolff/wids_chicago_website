@@ -16,6 +16,10 @@
   {{ if .Site.Params.tito.enable }}
   {{ partial "tito.html" . }}
   {{ end }}
+  
+   {{ if .Site.Params.home.enable }}
+  {{ partial "home.html" . }}
+  {{ end }}
 
   {{ if .Site.Params.eventbrite.enable }}
   {{ partial "eventbrite.html" . }}
@@ -42,13 +46,12 @@
   {{ partial "about.html" . }}
   {{ end }}
   
-  {{ if .Site.Params.home.enable }}
-  {{ partial "home.html" . }}
-  {{ end }}
 
   {{ if .Site.Params.location.enable }}
   {{ partial "location.html" . }}
   {{ end }}
+  
+
 
   {{ if .Site.Params.location.enable }}
   {{ partial "hackathon.html" . }}
