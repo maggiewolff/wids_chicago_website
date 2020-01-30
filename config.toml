@@ -352,7 +352,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       
     
     [[params.clients]]
-      logo = "bayer_logo.jpg"
+      logo = "bayer_logo.png"
       link = "https://www.bayer.com/en/crop-science-innovations-data-science.aspx/"
 
 
