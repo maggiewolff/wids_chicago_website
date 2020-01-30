@@ -180,8 +180,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     dates = "March 5, 2019"
     location= "[TGS Commons](https://goo.gl/maps/HcVm4psYWFSaDPWG6)"
     times= "4:00-8:00 pm"  
-    #website_name="google"
-    #website_url="www.google.com"
+    website_name="REGISTER HERE"
+    website_url="tiny.cc/wids_datadive"
 
   # Talk [Portfolio] section
   [params.portfolio]
