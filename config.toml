@@ -355,7 +355,12 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       logo = "bayer_logo.png"
       link = "https://www.bayer.com/en/crop-science-innovations-data-science.aspx/"
 
+      [[params.clients]]
+      logo = "uchi-stat.png"
+      link = "https://stat.uchicago.edu//"
 
+
+ 
  
   
   [params.diversity]
