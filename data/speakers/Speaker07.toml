@@ -1,7 +1,7 @@
 img = "denise_headshot.jpg"
 name = "Denise Scholtens"
-organisation = "Northwestern, Fienberg School of Medicine "
-role = "Chief of Biostatistics, Department of Preventative Medicine"
+organisation = "Northwestern University <br>Fienberg School of Medicine </br>"
+role = "Chief of Biostatistics, Preventative Medicine"
 social = [
         ["fa-rss", "https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=16163"],
       ]
