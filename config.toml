@@ -174,7 +174,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     bg = false
     title = "Data Dive"
     subtitle="A collaborative mini-hackathon for social good"
-    brief1="Come join us in Evanston as we explore a data science question for the Greater Chicago chapter of the American Red Cross, the day before WiDS: Chicago 2020! <br> **ALL GENDERS** are encouraged to participate. Sponsored by Northwestern Women in Statistics (WIST)."
+    brief1="Come join us in Evanston as we explore a data science question for the Greater Chicago chapter of the American Red Cross, the day before WiDS: Chicago 2020! <br> **ALL GENDERS** are encouraged to participate. Sponsored by Northwestern Women in Statistics ([WIST](https://www.statistics.northwestern.edu/research/women-in-statistics/))."
     brief2="**Registration [here](http://tiny.cc/wids_datadive) is required by Feb. 26**. An email with more information will be sent to participants."
     dates = "March 5, 2019"
     location= "[TGS Commons](https://goo.gl/maps/HcVm4psYWFSaDPWG6) in Evanston, IL"
@@ -320,7 +320,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       ]
       
             
-       [[params.team.members]]
+      [[params.team.members]]
       img = "Jess_headshot.jpg"
       name = "Jess Freaner"
       position = "WiDS Ambassador"
@@ -328,6 +328,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       social = [
         ["fa-linkedin", "https://www.linkedin.com/in/jessfreaner"]
       ]
+      
+      
 
 
   # Client section
