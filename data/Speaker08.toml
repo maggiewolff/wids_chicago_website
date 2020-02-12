@@ -1,0 +1,9 @@
+img = "lorena_mesa.jpg"
+name = "Lorena Mesa"
+organisation = "Github"
+role = "Data Engineer"
+social = [
+        ["fa-twitter", "https://twitter.com/loooorenanicole"],
+        ["fa-linkedin", "https://www.linkedin.com/in/lorenamesa"],
+        ["fa-rss", "http://lorenamesa.com/"],
+      ]
