@@ -344,6 +344,12 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # All the clients' logos are stored under 'static/img/logos'.
     # Replace them with your clients's logos.
     # Suggestion: .svg in the size of 280px*80px looks good
+        
+  [[params.clients]]
+      logo = "roosevelt-logo.jpg"
+      link = "https://www.roosevelt.edu/"
+ 
+ 
     [[params.clients]]
       logo = "aptitive-logo.jpg"
       link = "https://aptitive.com/"
@@ -364,7 +370,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   [[params.clients]]
       logo = "CRUG_logo.png"
       link = "https://chicago-r-user-group.github.io/"
- 
+      
+
  
   
   [params.diversity]
