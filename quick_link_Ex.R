@@ -11,5 +11,7 @@ data_to_compare <- data.frame(Name = c("Abby Smith", "Abbie Smith", "Bruce Dijks
 identity_vec <- c(1,1,2,1,2)
 
 
-compare.dedup(data_to_compare, phonetic= T, strcmp=F, identity = identity_vec)
+results <- compare.dedup(data_to_compare,  strcmp=T, identity = identity_vec)
 
+
+#compute various error metrics

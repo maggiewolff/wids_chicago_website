@@ -371,6 +371,10 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       logo = "CRUG_logo.png"
       link = "https://chicago-r-user-group.github.io/"
       
+  [[params.clients]]
+      logo = "chicago_ASA.jpg"
+      link = "https://community.amstat.org/chicagochapter/home"
+      
 
  
   
