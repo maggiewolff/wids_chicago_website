@@ -272,7 +272,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       name = "Abby Smith"
       position = "WiDS Ambassador"
       # For bio markdown and even multiline strings are available.
-      bio = """PhD Candidate in Statistics <br/> Northwestern"""
+      bio = """PhD Candidate in Statistics <br/> Northwestern Women in Statistics (WIST)"""
       social = [
         ["fa-twitter", "https://twitter.com/flabbysmith"],
         ["fa-github", "https://github.com/abbylsmith"],
@@ -304,7 +304,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       img = "Mena_headshot.jpg"
       name = "Mena Whalen"
       position = "WiDS Ambassador"
-      bio = """PhD Candidate in Statistics <br/> Northwestern"""
+      bio = """PhD Candidate in Statistics <br/> Northwestern Women in Statistics (WIST)"""
       social = [
         ["fa-linkedin", "https://www.linkedin.com/in/mena-whalen-07290b174"],
         ["fa-rss", "https://menawhalen.com/"]
@@ -374,6 +374,10 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   [[params.clients]]
       logo = "chicago_ASA.jpg"
       link = "https://community.amstat.org/chicagochapter/home"
+      
+  [[params.clients]]
+      logo = "WIST_logo_update.png"
+      link = "https://www.statistics.northwestern.edu/research/women-in-statistics/"  
       
 
  
