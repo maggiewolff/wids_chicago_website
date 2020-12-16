@@ -247,7 +247,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   
   # Location section
   [params.location]
-    enable = true
+    enable = false
     title = "Location"
     bg = true
   iframesrc= "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2970.767769736558!2d-87.62730558455895!3d41.876342679222326!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2ca21507764f%3A0x44cc0732016145b4!2sRoosevelt%20University!5e0!3m2!1sen!2sus!4v1578328289404!5m2!1sen!2sus" 
