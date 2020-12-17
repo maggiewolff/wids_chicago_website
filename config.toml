@@ -89,6 +89,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   # About [Services] section
   [params.services]
     enable = true
+    <br/>
+    <br/>
     title = "About"
     subtitle = "Conference Details"
 
@@ -262,7 +264,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     bg = false
     description = ""
     speakers = "Speakers"
-    
+    <br/>
+    <br/>
 
     # All team member's pictures are stored under 'static/img/team'.
     # Replace them with your own too.
