@@ -324,12 +324,12 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       
             
       [[params.team.members]]
-      img = "Jess_headshot.jpg"
-      name = "Jess Freaner"
+      img = "Kayla_headshot.jpg"
+      name = "Kayla Schroeder"
       position = "WiDS Ambassador"
-      bio = """Senior Data Scientist and Designer <br/> IDEO"""
+      bio = """PhD Student in Statistics <br/> Northwestern Women in Statistics (WIST)"""
       social = [
-        ["fa-linkedin", "https://www.linkedin.com/in/jessfreaner"]
+        ["fa-linkedin", "https://www.linkedin.com/in/kayla-schroeder/"]
       ]
       
       
