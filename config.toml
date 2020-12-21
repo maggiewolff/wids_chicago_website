@@ -113,12 +113,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       url = "https://widschicago.org/#schedule"
       
     [[params.services.row]]
-    
-    [[params.services.row.list]]
-      icon = "fa-universal-access"
-      title = "Networking"
-      description = "Opportunity to expand your professional network"
-      url = "https://widschicago.org/#schedule"
 
     [[params.services.row.list]]
       icon = "fa-graduation-cap"
