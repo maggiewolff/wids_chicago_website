@@ -16,12 +16,14 @@ class="bg-light-gray"
     <div>
         <p>
           {{ with .Site.Params.hackathon.brief1 }}{{ . | markdownify}}{{ end }}
+        </p>
         <ul>
           {{ with .Site.Params.hackathon.location}}<li>{{ . | markdownify}}</li>{{ end }}
           {{ with .Site.Params.hackathon.dates }}<li>{{ . | markdownify}}</li>{{ end }}
           {{ with .Site.Params.hackathon.times}}<li>{{ . | markdownify}}</li>{{ end }}
           {{ with .Site.Params.hackathon.website_name}}<li><a href="www.yahoo.com">{{ .}}</a></li>{{ end }} 
         </ul>  
+        <p>
           {{ with .Site.Params.hackathon.brief2 }}{{ . | markdownify}}{{ end }}
         </p>
         <img src="img/WIST_logo.png" alt="Smiley face" height="42" width="100">
