@@ -89,9 +89,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   # About [Services] section
   [params.services]
     enable = true
-    <br/>
-    <br/>
-    title = "About"
+    title = "<br/> About"
     subtitle = "Conference Details"
 
     [[params.services.row]]
@@ -113,13 +111,13 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       title = "Networking"
       description = "Opportunity to expand your professional network"
       url = "https://widschicago.org/#schedule"
-
+      
     [[params.services.row.list]]
-      icon = "fa-graduation-cap"
-      title = "Learning"
-      description = "Gain knowledge from your peers and experienced professionals"
+      icon = "fa-users"
+      title = "Community Led"
+      description = "Community organized, community focused"
       url = "https://widschicago.org/#team"
-
+    
     [[params.services.row.list]]
       icon = "fa-money"
       title = "No Cost!"
@@ -127,9 +125,9 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       url = "https://widschicago.org/#eventbrite"
       
     [[params.services.row.list]]
-      icon = "fa-users"
-      title = "Community Led"
-      description = "Community organized, community focused"
+      icon = "fa-graduation-cap"
+      title = "Learning"
+      description = "Gain knowledge from your peers and experienced professionals"
       url = "https://widschicago.org/#team"
       
 
