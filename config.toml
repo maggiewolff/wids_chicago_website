@@ -111,6 +111,18 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       title = "Networking"
       description = "Opportunity to expand your professional network"
       url = "https://widschicago.org/#schedule"
+    
+    [[params.services.row.list]]
+      icon = "fa-universal-access"
+      title = "Networking"
+      description = "Opportunity to expand your professional network"
+      url = "https://widschicago.org/#schedule"
+
+    [[params.services.row.list]]
+      icon = "fa-graduation-cap"
+      title = "Learning"
+      description = "Gain knowledge from your peers and experienced professionals"
+      url = "https://widschicago.org/#team"
 
     [[params.services.row.list]]
       icon = "fa-money"
@@ -124,12 +136,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       description = "Community organized, community focused"
       url = "https://widschicago.org/#team"
       
-    [[params.services.row.list]]
-      icon = "fa-graduation-cap"
-      title = "Learning"
-      description = "Gain knowledge from your peers and experienced professionals"
-      url = "https://widschicago.org/#team"
-
 
   # Register section
   # You only need ONE of these active
