@@ -90,7 +90,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   # About [Services] section
   [params.services]
     enable = true
-    title = "<br/> About"
+    title = "About"
     subtitle = "Conference Details"
 
     [[params.services.row]]
@@ -174,7 +174,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   
   # Hackathon section
   [params.hackathon]
-    enable = true
+    enable =true
     bg = false
     title = "Datathon"
     subtitle="A collaborative mini-hackathon for social good"
