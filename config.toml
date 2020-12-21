@@ -113,12 +113,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       url = "https://widschicago.org/#schedule"
 
     [[params.services.row.list]]
-      icon = "fa-graduation-cap"
-      title = "Learning"
-      description = "Gain knowledge from your peers and experienced professionals"
-      url = "https://widschicago.org/#team"
-
-    [[params.services.row.list]]
       icon = "fa-money"
       title = "No Cost!"
       description = "Yep, that's right: Free!"
@@ -130,6 +124,12 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       description = "Community organized, community focused"
       url = "https://widschicago.org/#team"
       
+    [[params.services.row.list]]
+      icon = "fa-graduation-cap"
+      title = "Learning"
+      description = "Gain knowledge from your peers and experienced professionals"
+      url = "https://widschicago.org/#team"
+
 
   # Register section
   # You only need ONE of these active
@@ -262,7 +262,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     subtitle = "The people putting it together"
     bg = false
     description = ""
-    speakers = "Speakers"
+    speakers = "Speakers <br/>"
 
     # All team member's pictures are stored under 'static/img/team'.
     # Replace them with your own too.
