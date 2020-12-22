@@ -72,6 +72,11 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
     # postpended links
     [[menu.postpend]]
+      url = "https://widschicago.org/#hackathon"
+      name = "Datathon"
+      weight = 10
+      
+    [[menu.postpend]]
       url = "http://widsconference.org/"
       name = "widsconference.org"
       weight = 10
@@ -98,13 +103,13 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     [[params.services.row.list]]
       icon = "fa-clock-o"
       title = "Details"
-      description = "March 6, 4:30-8:00 PM CST at Roosevelt University, Congress Room"
+      description = "March 6, 4:30-8:00 PM CST"
       url = "#"
 
     [[params.services.row.list]]
       icon = "fa-laptop"
       title = "Hands on"
-      description = "Participate in the Datathon for the American Red Cross, Greater Chicago Area"
+      description = "Participate in a Datathon for Diabetes diagnosis of ICU Patients"
       url = "https://widschicago.org/#hackathon"
       
     [[params.services.row.list]]
