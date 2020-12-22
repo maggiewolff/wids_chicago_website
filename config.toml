@@ -339,6 +339,15 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
         ["fa-linkedin", "https://www.linkedin.com/in/kayla-schroeder/"]
       ]
       
+      [[params.team.members]]
+      img = "varsha_headshot.jpg"
+      name = "Varsha Ananth"
+      position = "WiDS Ambassador"
+      bio = """Senior Data Scientist <br/> CVS Health"""
+      social = [
+        ["fa-linkedin", "https://www.linkedin.com/in/varsha-ananth167/"]
+      ]
+      
       
 
 
