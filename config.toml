@@ -183,7 +183,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     bg = false
     title = "Datathon"
     subtitle="Participate in a datathon for social good!<br/>"
-    eid = "91174211521"
+    #eid = "91174211521"
     brief1="This year's datathon (data-focused hackathon) will focus on models to determine whether a patient admitted to an Intensive Care Unit (ICU) has been diagnosed with a particular type of diabetes." 
     brief2=""
     location= "On January 29th we will be holding an introduction to Kaggle workshop that will also provide time to form teams. Please register for the event <a href= 'www.google.com' > here  </a>"
