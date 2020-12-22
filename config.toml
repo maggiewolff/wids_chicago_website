@@ -186,7 +186,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     brief1="This year's datathon (data-focused hackathon) will focus on models to determine whether a patient admitted to an Intensive Care Unit (ICU) has been diagnosed with a particular type of diabetes." 
     brief2=""
     location= "On January 29th we will be holding an introduction to Kaggle workshop that will also provide time to form teams. Register for the event <a href= 'www.google.com' > here.  </a>"
-    dates = "The datathon will be held from early January-February 2021 on Kaggle with winners announced on March 8, 2021"
+    dates = "__Datathon__ __Dates__: The datathon will be held from early January-February 2021 on Kaggle with winners announced on March 8, 2021"
     times= "Register for the datathon <a href= 'https://airtable.com/shrLE1J7hVxuYAILv' > here.  </a>"  
     website_name="See the WiDS Conference datathon information page for additional details."
     website_url="https://www.widsconference.org/datathon.html"  
