@@ -348,6 +348,17 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
         ["fa-linkedin", "https://www.linkedin.com/in/varsha-ananth167/"]
       ]
       
+      [[params.team.members]]
+      img = "devanshi_headshot.jpg"
+      name = "Devanshi Verma"
+      position = "WiDS Ambassador"
+      # For bio markdown and even multiline strings are available.
+      bio = """Masters Student in Data Science <br/> University of Chicago"""
+      social = [
+        ["fa-linkedin", "https://www.linkedin.com/in/devanshiverma/"],
+        ["fa-github", "https://thisisdevanshi.github.io/"]
+      ]
+      
       
 
 
