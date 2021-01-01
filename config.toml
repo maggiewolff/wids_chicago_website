@@ -421,10 +421,9 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   # Contact section
   [params.contact]
     enable = true
-    title = "Contact us"
-    subtitle  = "Lorem ipsum dolor sit amet consectetur."
-    buttonText = "Send message"
-    netlify = true
+    title = "Have a question about WiDS: Chicago? "
+    buttonText = "Send message!"
+    #netlify = true
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -447,8 +446,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     email = "als1@u.northwestern.edu"
 
     # Success and error message overwrite for async contact form
-    #thanks = "Thank you for awesomely contacting us."
-    #error = "Message could not be send. Please contact us at mail@example.com instead."
+    thanks = "Thank you for awesomely contacting WiDS:Chicago."
+    error = "Message could not be send. Please contact us at als1@u.northwestern.edu instead."
 
     [params.contact.captcha]
       # sitekey = ""
@@ -461,10 +460,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     [params.contact.form.email]
       text = "Your Email *"
       warning = "Please enter your email address."
-
-    [params.contact.form.phone]
-      text = "Your Phone *"
-      warning = "Please enter your phone number."
 
     [params.contact.form.message]
       text = "Your Message *"
