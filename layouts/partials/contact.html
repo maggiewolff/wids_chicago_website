@@ -9,6 +9,11 @@
         {{ with $contact.title }}
         <h2 class="section-heading">{{ . | markdownify }}</h2>
         {{ end }}
+		<center>
+		<a href="https://www.netlify.com">
+		<img src="https://www.netlify.com/img/global/badges/netlify-dark.svg" alt="Deploys by Netlify" />
+	  </a>	
+		</center>
 
         {{ with $contact.subtitle }}
         <h3 class="section-subheading text-muted">{{ . | markdownify }}</h3>
@@ -28,9 +33,7 @@
           {{- else -}}
             " action="{{- $contact.postURL | default (printf "//formspree.io/%s" (or $contact.email .Site.Params.email)) -}}"
           {{- end -}}>
-	<a href="https://www.netlify.com">
-    <img src="https://www.netlify.com/img/global/badges/netlify-dark.svg" alt="Deploys by Netlify" />
-  </a>	
+
           <fieldset>
             <div class="row">
               <div class="col-md-6">
