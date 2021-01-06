@@ -190,6 +190,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     times= "__Registration__: Register for the datathon <a href= 'https://airtable.com/shrLE1J7hVxuYAILv' > here.  </a>"  
     website_name="See the WiDS Conference datathon information page for additional details."
     website_url="https://www.widsconference.org/datathon.html"  
+    eid = "91174211521"
    
 
   # Talk [Portfolio] section
