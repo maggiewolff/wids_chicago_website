@@ -190,6 +190,17 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     times= "__Registration__: Register for the datathon <a href= 'https://airtable.com/shrLE1J7hVxuYAILv' > here.  </a>"  
     website_name="See the WiDS Conference datathon information page for additional details."
     website_url="https://www.widsconference.org/datathon.html"  
+    
+    
+  [params.eventbrite]
+    enable = true
+    title = "Register"
+    bg = true
+    eid = "91174211521" 
+      # Go to https://www.eventbrite.co.uk/support/articles/en_US/How_To/how-to-sell-eventbrite-tickets-registrations-on-your-website-using-embeddable-widgets?lg=en_GB 
+      # Follow instructions to discover your 'Website Integration' embeddable iframe
+      # Take ONLY the numeric string between "eid=" and "&ref=etckt"
+      # Supply this string as the value to `eid` above
    
 
   # Talk [Portfolio] section
