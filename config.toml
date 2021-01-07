@@ -360,6 +360,16 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
         ["fa-github", "https://thisisdevanshi.github.io/"]
       ]
       
+      [[params.team.members]]
+      img = "zaynaib_headshot.jpg"
+      name = "Zaynaib Giwa"
+      position = "WiDS Ambassador"
+      # For bio markdown and even multiline strings are available.
+      bio = """Data Science Coach <br/> Hacking 4 Justice"""
+      social = [
+        ["fa-linkedin", "https://www.linkedin.com/in/zaynaib-ola-giwa"],
+        ["fa-github", "https://zaynaib.github.io/"]
+      ]
       
 
 
