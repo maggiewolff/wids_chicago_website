@@ -1,7 +1,7 @@
-img = "brecia_young.jpg"
-name = "Brecia Young"
-organisation = "Civis Analytics"
-role = "Senior Applied Data Scientist"
+img = ""
+name = ""
+organisation = ""
+role = ""
 social = [
-        ["fa-linkedin", "https://www.linkedin.com/in/breciayoung"],
+        
       ]
