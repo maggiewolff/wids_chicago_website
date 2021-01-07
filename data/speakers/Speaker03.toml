@@ -1,8 +1,7 @@
-img = "meta_headshot.jpg"
-name = "Meta S. Brown"
-organisation = "A4Brown, Inc."
-role = "President"
+img = ""
+name = ""
+organisation = ""
+role = ""
 social = [
-        ["fa-twitter", "https://twitter.com/metabrown312?lang=en"],
-        ["fa-linkedin", "https://www.linkedin.com/in/metabrown"],
+        
       ]

@@ -1,8 +1,7 @@
-img = "nalini_headshot.jpg"
-name = "Nalini Polavarapu"
-organisation = "Bayer "
-role = "Data Science Strategy Lead"
+img = ""
+name = ""
+organisation = ""
+role = ""
 social = [
-        ["fa-twitter", "https://twitter.com/nalinistweets?lang=en"],
-        ["fa-linkedin", "https://www.linkedin.com/in/nalini-polavarapu-1711255"],
+        
       ]

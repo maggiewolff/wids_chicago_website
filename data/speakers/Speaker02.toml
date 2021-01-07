@@ -1,7 +1,7 @@
-img = "stephanie_kirmer.jpg"
-name = "Stephanie Kirmer"
-organisation = "Journera"
-role = "Senior Data Scentist"
+img = ""
+name = ""
+organisation = ""
+role = ""
 social = [
-        ["fa-twitter", "https://twitter.com/data_stephanie?lang=en"],
+        
       ]

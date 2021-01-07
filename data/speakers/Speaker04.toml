@@ -1,7 +1,7 @@
-img = "liz_headshot.jpg"
-name = "Elisabeth Moyer"
-organisation = "University of Chicago "
-role = "Associate Professor, Atmospheric Science"
+img = ""
+name = ""
+organisation = ""
+role = ""
 social = [
-        ["fa-rss", "http://geosci.uchicago.edu/~moyer/MoyerWebsite/Home%20Page/HomePage.html"]
+        
       ]
