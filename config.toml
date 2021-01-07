@@ -386,38 +386,26 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # Replace them with your clients's logos.
     # Suggestion: .svg in the size of 280px*80px looks good
         
-  [[params.clients]]
-      logo = "roosevelt-logo.jpg"
-      link = "https://www.roosevelt.edu/"
- 
- 
-    [[params.clients]]
-      logo = "aptitive-logo.jpg"
-      link = "https://aptitive.com/"
 
     [[params.clients]]
       logo = "cdac-logo.jpg"
       link = "https://cdac.uchicago.edu/"
       
-    
-    [[params.clients]]
-      logo = "bayer_logo.png"
-      link = "https://www.bayer.com/en/crop-science-innovations-data-science.aspx/"
 
-      [[params.clients]]
-      logo = "uchi-stat.png"
-      link = "https://stat.uchicago.edu//"
+      #[[params.clients]]
+      #logo = "uchi-stat.png"
+      #link = "https://stat.uchicago.edu//"
 
-  [[params.clients]]
-      logo = "CRUG_logo.png"
-      link = "https://chicago-r-user-group.github.io/"
+  #[[params.clients]]
+      #logo = "CRUG_logo.png"
+      #link = "https://chicago-r-user-group.github.io/"
+      
+  #[[params.clients]]
+      #logo = "chicago_ASA.jpg"
+      #link = "https://community.amstat.org/chicagochapter/home"
       
   [[params.clients]]
-      logo = "chicago_ASA.jpg"
-      link = "https://community.amstat.org/chicagochapter/home"
-      
-  [[params.clients]]
-      logo = "WIST_logo_update.png"
+      logo = "WIST_logo.png"
       link = "https://www.statistics.northwestern.edu/research/women-in-statistics/"  
       
 
