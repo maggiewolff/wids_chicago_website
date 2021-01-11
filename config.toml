@@ -103,7 +103,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     [[params.services.row.list]]
       icon = "fa-clock-o"
       title = "Details"
-      description = "Friday, March 12, 6:00-8:00 PM CST"
+      description = "Friday, March 12, 5:00-8:00 PM CST"
       url = "#"
 
     [[params.services.row.list]]
