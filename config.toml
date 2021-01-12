@@ -87,7 +87,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
     title = "Women in Data Science: Chicago"
-    subtitle = "A conference showcasing womxn data scientists in Chicago"
+    subtitle = "A conference showcasing womxn data scientists in Chicago on Friday, March 12th"
     bg = true
     buttonText = "Tell me more"
 
@@ -103,7 +103,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     [[params.services.row.list]]
       icon = "fa-clock-o"
       title = "Details"
-      description = "March 6, 4:30-8:00 PM CST"
+      description = "Friday, March 12, 5:00-8:00 PM CST"
       url = "#"
 
     [[params.services.row.list]]
@@ -185,9 +185,11 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     subtitle="Participate in a datathon for social good!"
     brief1="This year's datathon (data-focused hackathon) will focus on models to determine whether a patient admitted to an Intensive Care Unit (ICU) has been diagnosed with a particular type of diabetes. See the WiDS Conference <a href= 'https://www.widsconference.org/datathon.html' > datathon information page  </a> for additional details on the dataset." 
     brief2=""
-    location= "__Dates__: The datathon will be held from until late February 2021 on Kaggle with winners announced on March 8, 2021"
-    dates = "__Registration__: To be matched with a team, you must register for the kickoff <a href= 'https://airtable.com/shrLE1J7hVxuYAILv' > in addition to this event.  </a>"
-    times= "__Datathon Kickoff!: Workshop and Team Formation__: On January 29th we will be holding an introduction to workshop to  Register for the event on the Eventbrite widget below."  
+
+    location= "__Dates__: The datathon will be held from early January-February 2021 on Kaggle with winners announced on March 8, 2021."
+    dates = "__Registration__: You must register for the WiDS datathon <a href= 'https://airtable.com/shrLE1J7hVxuYAILv' > in addition to the Datathon Kickoff.  </a>"
+    times= "__Datathon Kickoff!: Workshop and Team Formation__: On January 29th we will be holding an introduction to Kaggle workshop that will also provide time to form teams. Register for the event on the Eventbrite widget below."  
+
     website_name=""
     website_url=""  
     eid = "135726249867"
