@@ -290,7 +290,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       social = [
         ["fa-twitter", "https://twitter.com/flabbysmith"],
         ["fa-github", "https://github.com/abbylsmith"],
-        ["fa-linkedin", "https://www.linkedin.com/in/abby-smith-55312a200/"]
+        ["fa-linkedin", "https://www.linkedin.com/in/abby-smith-55312a200/"],
         ["fa-rss", "https://abbylsmith.me"]
       ]
 
