@@ -1,7 +1,7 @@
-img = ""
-name = ""
-organisation = ""
-role = ""
+img = "Christina_M_headshot.jpg"
+name = "Christina Maimone, PhD"
+organisation = "Northwestern University IT Research Computing Services"
+role = "Data Scientist"
 social = [
         
       ]
