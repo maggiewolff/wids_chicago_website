@@ -3,5 +3,7 @@ name = "Tammy Glazer"
 organisation = "DrivenData"
 role = "Data Scientist"
 social = [
-        
+        ["fa-github", "https://github.com/tamara-glazer"],
+        ["fa-linkedin", "https://www.linkedin.com/in/tamara-glazer-44286776/"],
+        ["fa-rss", "https://public.tableau.com/profile/tammy.glazer#!/"]
       ]

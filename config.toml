@@ -342,6 +342,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       bio = """PhD Student in Statistics <br/> Northwestern Women in Statistics (WIST)"""
       social = [
         ["fa-linkedin", "https://www.linkedin.com/in/kayla-schroeder/"]
+        ["fa-rss", "https://kaylaaschroeder.wixsite.com/homepage"]
       ]
       
       [[params.team.members]]
