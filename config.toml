@@ -274,6 +274,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     #center = true
     title = "<br/><br/>Team"
     subtitle = "The people putting it together"
+    speakers_subtitle = "Will be announced soon!"
     bg = false
     description = ""
     speakers = "Speakers <br/>"
