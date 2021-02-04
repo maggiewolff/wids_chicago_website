@@ -1,7 +1,7 @@
-img = ""
-name = ""
-organisation = ""
-role = ""
+img = "Ross_headshot.jpg"
+name = "Ross Weijer"
+organisation = "IDEO"
+role = "Data Scientist and Senior Designer"
 social = [
         
       ]
