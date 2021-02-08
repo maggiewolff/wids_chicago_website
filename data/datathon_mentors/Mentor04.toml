@@ -3,5 +3,7 @@ name = "Ifeoma Ozodiegwu"
 organisation = "Malaria Modeling Research Group at Northwestern University"
 role = "Postdoctoral Fellow"
 social = [
-        
+        ["fa-linkedin", "https://www.linkedin.com/in/ifeomaozodiegwu"],
+        ["fa-rss", "https://ifeomaozo.github.io/"],
+        ["fa-github", "https://github.com/ifeomaozo"]
       ]
