@@ -3,5 +3,6 @@ name = "Ross Weijer"
 organisation = "IDEO"
 role = "Data Scientist and Senior Designer"
 social = [
-        
+        ["fa-linkedin", "https://www.linkedin.com/in/h0ratiob3r0n"],
+        ["fa-github", "https://github.com/ZombieSocrates"]
       ]
