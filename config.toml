@@ -398,6 +398,10 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       logo = "cdac-logo.jpg"
       link = "https://cdac.uchicago.edu/"
       
+    [[params.clients]]
+      logo = "avatria_logo.png"
+      link = "https://www.avatria.com/"  
+      
 
     [[params.clients]]
       logo = "uchi-stat.png"
@@ -415,9 +419,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       logo = "WIST_logo.png"
       link = "https://www.statistics.northwestern.edu/research/women-in-statistics/"  
       
-  [[params.clients]]
-      logo = "avatria_logo.png"
-      link = "https://www.avatria.com/"  
       
 
  
