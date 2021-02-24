@@ -416,7 +416,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       link = "https://www.statistics.northwestern.edu/research/women-in-statistics/"  
       
   [[params.clients]]
-      logo = "avatria_logo.png"
+      logo = "avatria_logo1.heic"
       link = "https://www.avatria.com/"  
       
 
