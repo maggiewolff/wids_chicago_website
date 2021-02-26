@@ -1,7 +1,7 @@
-img = ""
-name = ""
-organisation = ""
-role = ""
+img = "blank_headshot.png"
+name = "Teodora Szasz"
+organisation = "University of Chicago Research Computing Center"
+role = "Computational Scientist"
 social = [
-
+        ["fa-github", "https://github.com/lorenanicole"]
       ]

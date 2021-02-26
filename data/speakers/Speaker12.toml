@@ -1,0 +1,8 @@
+img = "blank_headshot.png"
+name = "Rebecca BurWei"
+organisation = "Relativity"
+role = "Senior Data Scientist"
+social = [
+        ["fa-github", "https://github.com/rebecca-burwei"],
+        ["fa-linkedin", "https://www.linkedin.com/in/rebecca-burwei"]
+      ]

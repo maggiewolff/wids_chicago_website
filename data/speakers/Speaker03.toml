@@ -1,7 +1,7 @@
-img = ""
-name = ""
-organisation = ""
-role = ""
+img = "blank_headshot.png"
+name = "Kristi Angel"
+organisation = "Grubhub"
+role = "Senior Decision Scientist"
 social = [
-        
+        ["fa-linkedin", "https://www.linkedin.com/in/kristiangel"]
       ]

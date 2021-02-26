@@ -1,0 +1,7 @@
+img = "blank_headshot.png"
+name = "Hanna Parker"
+organisation = "Avatria"
+role = "Software Engineer"
+social = [
+        ["fa-linkedin", "https://www.linkedin.com/in/hanna-parker"]
+      ]
