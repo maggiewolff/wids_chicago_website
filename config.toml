@@ -151,10 +151,10 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
   [params.eventbrite]
     enable = true
-    title = "Register for 3/12"
-    subtitle = ""
+    title = "Register"
+    subtitle = "WiDS: Chicago on 3/12"
     bg = true
-    eid = "142373993447" 
+    eid = "142373993447"  
       # Go to https://www.eventbrite.co.uk/support/articles/en_US/How_To/how-to-sell-eventbrite-tickets-registrations-on-your-website-using-embeddable-widgets?lg=en_GB 
       # Follow instructions to discover your 'Website Integration' embeddable iframe
       # Take ONLY the numeric string between "eid=" and "&ref=etckt"
