@@ -1,7 +1,8 @@
-img = "blank_headshot.png"
+img = "dessa_headshot.jpg"
 name = "Dessa Gypalo"
 organisation = "Cook County Government"
 role = "Chief Data Officer"
 social = [
-        ["fa-linkedin", "https://www.linkedin.com/in/dessagypalo"]
+        ["fa-linkedin", "https://www.linkedin.com/in/dessagypalo"],
+        ["fa-twitter", "https://twitter.com/dessagypalo"]
       ]

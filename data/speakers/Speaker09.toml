@@ -5,5 +5,5 @@ role = "Assistant Director of Health Informatics"
 social = [
         ["fa-twitter", "https://twitter.com/maryniakolak?lang=en"],
         ["fa-linkedin", "https://www.linkedin.com/in/maryniakolak"],
-        ["fa-rss", "https://makosak.github.io/"]
+        ["fa-rss", "http://voices.uchicago.edu/herop/"]
       ]
