@@ -1,9 +1,9 @@
-img = "blank_headshot.png"
+img = "marynia_headshot.jpg"
 name = "Marynia Kolak"
 organisation = "Center for Spatial Data Science, University of Chicago"
 role = "Assistant Director of Health Informatics"
 social = [
         ["fa-twitter", "https://twitter.com/maryniakolak?lang=en"],
         ["fa-linkedin", "https://www.linkedin.com/in/maryniakolak"],
-        ["fa-rss", "https://makosak.github.io/"]
+        ["fa-rss", "http://voices.uchicago.edu/herop/"]
       ]

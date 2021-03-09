@@ -407,9 +407,13 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       logo = "uchi-stat.png"
       link = "https://stat.uchicago.edu//"
 
-  #[[params.clients]]
-      #logo = "CRUG_logo.png"
-      #link = "https://chicago-r-user-group.github.io/"
+  [[params.clients]]
+      logo = "CRUG_logo.png"
+      link = "https://chicago-r-user-group.github.io/"
+      
+  [[params.clients]]
+      logo = "roosevelt-logo.jpg"
+      link = "https://www.roosevelt.edu/"
       
   #[[params.clients]]
       #logo = "chicago_ASA.jpg"

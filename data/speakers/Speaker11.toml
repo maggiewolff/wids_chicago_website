@@ -1,8 +1,9 @@
-img = "blank_headshot.png"
+img = "marshini_headshot.jpg"
 name = "Marshini Chetty"
 organisation = "University of Chicago Dept. of Computer Science"
 role = "Assistant Professor"
 social = [
+        ["fa-twitter", " https://twitter.com/ineffablicious "],
         ["fa-linkedin", "https://www.linkedin.com/in/marshini"],
         ["fa-rss", "https://www.marshini.net/"]
       ]
