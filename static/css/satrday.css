@@ -394,7 +394,7 @@ p.ps {
     flex-flow: row wrap;
     justify-content: space-around;
     margin: 0 auto;
-    max-width: 50rem;
+    max-width: 75rem;
 }
 
 .ScheduleItem:first-of-type {
