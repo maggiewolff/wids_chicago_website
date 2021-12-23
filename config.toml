@@ -338,23 +338,16 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       
             
       [[params.team.members]]
-      img = "Kayla_headshot.jpg"
-      name = "Kayla Schroeder"
+      img = "Angelina_headshot.png"
+      name = "Angelina Leigh"
       position = "WiDS Ambassador"
-      bio = """PhD Student in Statistics <br/> Northwestern University"""
+      bio = """Masters Student In Statistical Sciences Claremont Graduate University"""
       social = [
-        ["fa-linkedin", "https://www.linkedin.com/in/kayla-schroeder/"],
-        ["fa-rss", "https://kaylaaschroeder.wixsite.com/homepage"]
+        ["fa-linkedin", "https://www.linkedin.com/in/angelina-maria-leigh-254506134/"],
+       
       ]
       
-      [[params.team.members]]
-      img = "varsha_headshot.jpg"
-      name = "Varsha Ananth"
-      position = "WiDS Ambassador"
-      bio = """Senior Data Scientist <br/> CVS Health"""
-      social = [
-        ["fa-linkedin", "https://www.linkedin.com/in/varsha-ananth167/"]
-      ]
+  
       
       [[params.team.members]]
       img = "devanshi_headshot.jpg"
