@@ -215,7 +215,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
   # Schedule section
   [params.schedule]
-    enable = true
+    enable = false
     title = "Schedule"
     bg = false
 
@@ -338,7 +338,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       
             
       [[params.team.members]]
-      img = "Angelina_headshot.png"
+      img = "Angelina_headshot.jpg"
       name = "Angelina Leigh"
       position = "WiDS Ambassador"
       bio = """Masters Student In Statistical Sciences Claremont Graduate University"""
