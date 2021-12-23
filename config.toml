@@ -269,7 +269,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
   # Team section
   [params.team]
-    enable = true
+    enable = false
     # Possibility to center items
     #center = true
     title = "<br/><br/>Team"
@@ -328,7 +328,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       ]
       
       [[params.team.members]]
-      img = "Sophie_headshot.png"
+      img = "Sophie_headshot.jpg"
       name = "Sophie Hu"
       position = "WiDS Ambassador"
       bio = """Masters Student in Data Science <br/> University of Chicago"""
