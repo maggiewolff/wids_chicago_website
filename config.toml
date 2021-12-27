@@ -188,8 +188,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     brief2=""
 
     location= "__Dates__: The datathon will be held from early January-February 2021 on Kaggle with winners announced on March 8, 2021."
-    dates = "__Registration__: In addition to registering for the Datathon Kickoff in the Eventbrite below, you must register for the  <a href= 'https://airtable.com/shrLE1J7hVxuYAILv' > WiDS @ Stanford datathon </a> as well. "
-    times= "__Datathon Kickoff!: Workshop and Team Formation__: On January 29th we will be holding an introduction to Kaggle workshop that will also provide time to form teams. Register for the event on the Eventbrite widget below."
+    #dates = "__Registration__: In addition to registering for the Datathon Kickoff in the Eventbrite below, you must register for the  <a href= 'https://airtable.com/shrLE1J7hVxuYAILv' > WiDS @ Stanford datathon </a> as well. "
+    times= "__Datathon Kickoff!: Workshop and Team Formation__: On January 21th we will be holding an introduction to Kaggle workshop that will also provide time to form teams. Register for the event on the Eventbrite widget below."
 
     website_name=""
     website_url=""
@@ -333,7 +333,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       img = "Angelina_headshot.jpg"
       name = "Angelina Leigh"
       position = "WiDS Ambassador"
-      bio = """Masters Student In Statistical Sciences Claremont Graduate University"""
+      bio = """Data Scientist at Hitachi Solutions"""
       social = [
         ["fa-linkedin", "https://www.linkedin.com/in/angelina-maria-leigh-254506134/"],
 
