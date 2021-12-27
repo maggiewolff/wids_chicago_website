@@ -277,8 +277,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     speakers_subtitle = ""
     bg = false
     description = ""
-   # mentors.display = false
-    #speakers.display= false
     speakers = "Speakers <br/>"
     mentors = "Datathon Mentors"
 
@@ -348,7 +346,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       name = "Devanshi Verma"
       position = "WiDS Ambassador"
       # For bio markdown and even multiline strings are available.
-      bio = """Masters Student in Data Science <br/> University of Chicago"""
+      bio = """Data Scientist <br/> CVS Health"""
       social = [
         ["fa-linkedin", "https://www.linkedin.com/in/devanshiverma/"],
         ["fa-github", "https://thisisdevanshi.github.io/"]
