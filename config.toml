@@ -109,7 +109,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     [[params.services.row.list]]
       icon = "fa-laptop"
       title = "Hands on"
-      description = "Participate in a Datathon for Diabetes diagnosis of ICU Patients"
+      description = "Participate in a Datathon-- creating models to predict building energy consumption"
       url = "https://widschicago.org/#hackathon"
 
     [[params.services.row.list]]
@@ -277,8 +277,10 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     speakers_subtitle = ""
     bg = false
     description = ""
-    #speakers = "Speakers <br/>"
-    #mentors = "Datathon Mentors"
+    mentors.display = false
+    speakers.display= false
+    speakers = "Speakers <br/>"
+    mentors = "Datathon Mentors"
 
     # All team member's pictures are stored under 'static/img/team'.
     # Replace them with your own too.
