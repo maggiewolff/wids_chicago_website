@@ -75,7 +75,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       url = "https://widschicago.org/#hackathon"
       name = "Datathon"
       weight = 10
-      
+
     [[menu.postpend]]
       url = "http://widsconference.org/"
       name = "widsconference.org"
@@ -111,13 +111,13 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       title = "Hands on"
       description = "Participate in a Datathon for Diabetes diagnosis of ICU Patients"
       url = "https://widschicago.org/#hackathon"
-      
+
     [[params.services.row.list]]
       icon = "fa-universal-access"
       title = "Networking"
       description = "Opportunity to expand your professional network"
       url = "https://widschicago.org/#schedule"
-      
+
     [[params.services.row]]
 
     [[params.services.row.list]]
@@ -131,13 +131,13 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       title = "No Cost!"
       description = "Yep, that's right: Free!"
       url = "https://widschicago.org/#eventbrite"
-      
+
     [[params.services.row.list]]
       icon = "fa-users"
       title = "Community Led"
       description = "Community organized, community focused"
       url = "https://widschicago.org/#team"
-      
+
 
   # Register section
   # You only need ONE of these active
@@ -154,8 +154,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     title = "Register"
     subtitle = "WiDS: Chicago on 3/12"
     bg = true
-    eid = "142373993447"  
-      # Go to https://www.eventbrite.co.uk/support/articles/en_US/How_To/how-to-sell-eventbrite-tickets-registrations-on-your-website-using-embeddable-widgets?lg=en_GB 
+    eid = "142373993447"
+      # Go to https://www.eventbrite.co.uk/support/articles/en_US/How_To/how-to-sell-eventbrite-tickets-registrations-on-your-website-using-embeddable-widgets?lg=en_GB
       # Follow instructions to discover your 'Website Integration' embeddable iframe
       # Take ONLY the numeric string between "eid=" and "&ref=etckt"
       # Supply this string as the value to `eid` above
@@ -168,7 +168,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       # Go to www.tickettailor.com and open your event page
       # Note the number at the end of the url e.g. https://www.tickettailor.com/event/view/id/162430
       # Supply the number ONLY in `eventviewid`
-  
+
   # Call for papers section
   [params.callforpapers]
     enable = false
@@ -177,24 +177,24 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     CfSpage = "/test3490"
       # Go to Organizer > My Events > Dashboard and copy the "CfS Page" string into the `CfSpage` value
     dates = "09 Aug - 21 Sep 2018"
-  
+
   # Hackathon section
   [params.hackathon]
     enable = true
     bg = false
     title = "Datathon"
     subtitle="Participate in a datathon for social good!"
-    brief1="</br> WiDS: Chicago Datathon Workshop is an independent event organized by WiDS Ambassadors in Chicago to coincide with the annual Women in Data Science (WiDS) Worldwide Conference held at Stanford University and an estimated 150+ locations worldwide. Participants can be students, faculty, government workers, members of NGOs, or industry members. The WiDS: Chicago Datathon Workshop will provide guidance on best practices for the datathon and help with team formation. </br> </br> The WiDS Datathon 2021 will focus on models to determine whether a patient admitted to an Intensive Care Unit (ICU) has been diagnosed with a particular type of diabetes. See the WiDS Conference <a href= 'https://www.widsconference.org/datathon.html' > datathon information page  </a> for additional details on the dataset. </br>" 
+    brief1="</br> WiDS: Chicago Datathon Workshop is an independent event organized by WiDS Ambassadors in Chicago to coincide with the annual Women in Data Science (WiDS) Worldwide Conference held at Stanford University and an estimated 150+ locations worldwide. Participants can be students, faculty, government workers, members of NGOs, or industry members. The WiDS: Chicago Datathon Workshop will provide guidance on best practices for the datathon and help with team formation. </br> </br> The WiDS Datathon 2021 will focus on models to determine whether a patient admitted to an Intensive Care Unit (ICU) has been diagnosed with a particular type of diabetes. See the WiDS Conference <a href= 'https://www.widsconference.org/datathon.html' > datathon information page  </a> for additional details on the dataset. </br>"
     brief2=""
 
     location= "__Dates__: The datathon will be held from early January-February 2021 on Kaggle with winners announced on March 8, 2021."
     dates = "__Registration__: In addition to registering for the Datathon Kickoff in the Eventbrite below, you must register for the  <a href= 'https://airtable.com/shrLE1J7hVxuYAILv' > WiDS @ Stanford datathon </a> as well. "
-    times= "__Datathon Kickoff!: Workshop and Team Formation__: On January 29th we will be holding an introduction to Kaggle workshop that will also provide time to form teams. Register for the event on the Eventbrite widget below."  
+    times= "__Datathon Kickoff!: Workshop and Team Formation__: On January 29th we will be holding an introduction to Kaggle workshop that will also provide time to form teams. Register for the event on the Eventbrite widget below."
 
     website_name=""
-    website_url=""  
+    website_url=""
     eid = "135726249867"
-   
+
 
   # Talk [Portfolio] section
   [params.portfolio]
@@ -225,8 +225,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     title = "Important Dates"
     subtitle = "Be prepared!"
     endpoint = "Conference"
-  
-      
+
+
   [params.home]
     enable = true
     title = "Mission"
@@ -259,13 +259,13 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       date = "Fourth Date"
       title = "Call For Papers Ends"
       description = "Cut off date for speaker submissions"
-  
+
   # Location section
   [params.location]
     enable = false
     title = "Location"
     bg = true
-  iframesrc= "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2970.767769736558!2d-87.62730558455895!3d41.876342679222326!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2ca21507764f%3A0x44cc0732016145b4!2sRoosevelt%20University!5e0!3m2!1sen!2sus!4v1578328289404!5m2!1sen!2sus" 
+  iframesrc= "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2970.767769736558!2d-87.62730558455895!3d41.876342679222326!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2ca21507764f%3A0x44cc0732016145b4!2sRoosevelt%20University!5e0!3m2!1sen!2sus!4v1578328289404!5m2!1sen!2sus"
 
   # Team section
   [params.team]
@@ -326,17 +326,9 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
         ["fa-linkedin", "https://www.linkedin.com/in/mena-whalen-07290b174"],
         ["fa-rss", "https://menawhalen.com/"]
       ]
-      
-      [[params.team.members]]
-      img = "Sophie_headshot.jpg"
-      name = "Sophie Hu"
-      position = "WiDS Ambassador"
-      bio = """Masters Student in Data Science <br/> University of Chicago"""
-      social = [
-        ["fa-linkedin", "https://www.linkedin.com/in/shuang-hu-73a685b8/"]
-      ]
-      
-            
+
+
+
       [[params.team.members]]
       img = "Angelina_headshot.jpg"
       name = "Angelina Leigh"
@@ -344,11 +336,11 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       bio = """Masters Student In Statistical Sciences Claremont Graduate University"""
       social = [
         ["fa-linkedin", "https://www.linkedin.com/in/angelina-maria-leigh-254506134/"],
-       
+
       ]
-      
-  
-      
+
+
+
       [[params.team.members]]
       img = "devanshi_headshot.jpg"
       name = "Devanshi Verma"
@@ -359,7 +351,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
         ["fa-linkedin", "https://www.linkedin.com/in/devanshiverma/"],
         ["fa-github", "https://thisisdevanshi.github.io/"]
       ]
-      
+
       [[params.team.members]]
       img = "zaynaib_headshot.jpg"
       name = "Zaynaib Giwa"
@@ -370,7 +362,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
         ["fa-linkedin", "https://www.linkedin.com/in/zaynaib-ola-giwa"],
         ["fa-github", "https://zaynaib.github.io/"]
       ]
-      
+
 
 
   # Client section
@@ -385,16 +377,16 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # All the clients' logos are stored under 'static/img/logos'.
     # Replace them with your clients's logos.
     # Suggestion: .svg in the size of 280px*80px looks good
-        
+
 
     [[params.clients]]
       logo = "cdac-logo.jpg"
       link = "https://cdac.uchicago.edu/"
-      
+
     [[params.clients]]
       logo = "avatria_logo.png"
-      link = "https://www.avatria.com/"  
-      
+      link = "https://www.avatria.com/"
+
 
     [[params.clients]]
       logo = "uchi-stat.png"
@@ -403,23 +395,23 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   [[params.clients]]
       logo = "CRUG_logo.png"
       link = "https://chicago-r-user-group.github.io/"
-      
+
   [[params.clients]]
       logo = "roosevelt-logo.jpg"
       link = "https://www.roosevelt.edu/"
-      
+
   #[[params.clients]]
       #logo = "chicago_ASA.jpg"
       #link = "https://community.amstat.org/chicagochapter/home"
-      
+
   [[params.clients]]
       logo = "WIST_logo.png"
-      link = "https://www.statistics.northwestern.edu/research/women-in-statistics/"  
-      
-      
+      link = "https://www.statistics.northwestern.edu/research/women-in-statistics/"
 
- 
-  
+
+
+
+
   [params.diversity]
     enable = true
     title = "WiDS Code of Conduct"
