@@ -277,8 +277,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     speakers_subtitle = ""
     bg = false
     description = ""
-    speakers = "Speakers <br/>"
-    mentors = "Datathon Mentors"
+    #speakers = "Speakers <br/>"
+    #mentors = "Datathon Mentors"
 
     # All team member's pictures are stored under 'static/img/team'.
     # Replace them with your own too.
@@ -321,7 +321,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       img = "Mena_headshot.jpg"
       name = "Mena Whalen"
       position = "WiDS Ambassador"
-      bio = """PhD Candidate in Statistics <br/> Northwestern Women in Statistics (WIST)"""
+      bio = """Assistant Professor of Statistics <br/> Loyola University of Chicago"""
       social = [
         ["fa-linkedin", "https://www.linkedin.com/in/mena-whalen-07290b174"],
         ["fa-rss", "https://menawhalen.com/"]
@@ -330,10 +330,10 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 
       [[params.team.members]]
-      img = "Angelina_headshot.jpg"
+      img = "angelina_headshot.jpg"
       name = "Angelina Leigh"
       position = "WiDS Ambassador"
-      bio = """Data Scientist at Hitachi Solutions"""
+      bio = """Data Scientist <br/> Hitachi Solutions"""
       social = [
         ["fa-linkedin", "https://www.linkedin.com/in/angelina-maria-leigh-254506134/"],
 
