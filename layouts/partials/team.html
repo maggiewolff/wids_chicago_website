@@ -4,7 +4,13 @@
 <section id="team" {{ if .Site.Params.team.bg }}
 class="bg-light-gray"
 {{ end }}>
-
+<br/>
+	 <br/>
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 text-center">
+        <p class="large text-muted">{{ with .Site.Params.team.description }}{{ . | markdownify }}{{ end }}</p>
+      </div>
+    </div>
    <div class="row">
       <div class="col-lg-12 text-center">
         <h2 class="section-heading">{{ with .Site.Params.team.title }}{{ . | markdownify }}{{ end }}</h2>
@@ -52,18 +58,8 @@ class="bg-light-gray"
         </div>
       {{ end }}
     </div>
-  <!--
-   <br/>
-	 <br/>
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 text-center">
-        <p class="large text-muted">{{ with .Site.Params.team.description }}{{ . | markdownify }}{{ end }}</p>
-      </div>
-    </div>
-	-->
-	
-	
-	
+
+ 
 	 <!--
 	<div class="row">
       <div class="col-lg-12 text-center">
