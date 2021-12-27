@@ -277,8 +277,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     speakers_subtitle = ""
     bg = false
     description = ""
-    mentors.display = false
-    speakers.display= false
+   # mentors.display = false
+    #speakers.display= false
     speakers = "Speakers <br/>"
     mentors = "Datathon Mentors"
 
