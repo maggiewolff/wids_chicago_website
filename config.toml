@@ -187,7 +187,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     brief1="</br> WiDS: Chicago Datathon Workshop is an independent event organized by WiDS Ambassadors in Chicago to coincide with the annual Women in Data Science (WiDS) Worldwide Conference held at Stanford University and an estimated 150+ locations worldwide. Participants can be students, faculty, government workers, members of NGOs, or industry members. The WiDS: Chicago Datathon Workshop will provide guidance on best practices for the datathon and help with team formation. </br> </br> The WiDS Datathon 2021 will focus on models to analyze regional differences in building energy efficiency and creating models to predict building energy consumption See the WiDS Conference <a href= 'https://www.widsconference.org/datathon.html' > datathon information page  </a> for additional details on the dataset. </br>"
     brief2=""
 
-    location= "__Dates__: The datathon will be held from early January-February 2021 on Kaggle with winners announced on March 8, 2021."
+    location= "__Dates__: The datathon will be held from early January-February 2022 on Kaggle with winners announced in early March 2022."
     #dates = "__Registration__: In addition to registering for the Datathon Kickoff in the Eventbrite below, you must register for the  <a href= 'https://airtable.com/shrLE1J7hVxuYAILv' > WiDS @ Stanford datathon </a> as well. "
     times= "__Datathon Kickoff!: Workshop and Team Formation__: On January 21th we will be holding an introduction to Kaggle workshop that will also provide time to form teams. Register for the event on the Eventbrite widget below."
 
