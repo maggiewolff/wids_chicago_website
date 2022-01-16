@@ -1,0 +1,7 @@
+img = "tiffany_christian_headshot.jpg"
+name = "Tiffany Christian"
+organisation = "Northwestern"
+role = "PhD student"
+social = [
+        ["fa-linkedin", "https://www.linkedin.com/in/tiffany-christian-733137b5/"]
+      ]

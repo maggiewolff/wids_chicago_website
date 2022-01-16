@@ -1,0 +1,7 @@
+img = "amanda_farah_headshot.jpg"
+name = "Amanda Farah"
+organisation = "University of Chicago"
+role = "PhD student and NSF Graduate Research Fellow"
+social = [
+        ["fa-github", "https://github.com/afarah18e"]
+      ]
