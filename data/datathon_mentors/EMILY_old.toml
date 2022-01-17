@@ -1,9 +1,0 @@
-img = "emily_headshot.jpg"
-name = "Emily Riederer"
-organisation = "Capital One"
-role = "Senior Analytics Manager"
-social = [
-        ["fa-linkedin", "https://www.linkedin.com/in/emilyriederer/"],
-        ["fa-rss", "https://emilyriederer.netlify.app/"],
-        ["fa-github", "https://github.com/emilyriederer"]
-      ]
