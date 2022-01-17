@@ -1,7 +1,0 @@
-img = "Lisa_headshot.jpg"
-name = "Lisa Nash"
-organisation = "IDEO"
-role = "Data Scientist and Designer"
-social = [
-        ["fa-linkedin", "https://www.linkedin.com/in/lisamnash"]
-      ]
