@@ -1,0 +1,9 @@
+img = "quang_nguyen_headshot.jpg"
+name = "Quang Nguyen"
+organisation = "Loyola University Chicago"
+role = "Masters student"
+social = [
+        ["fa-linkedin", "https://www.linkedin.com/in/mqnnguyen"],
+        ["fa-twitter", "https://twitter.com/qntkhvn"],
+        ["fa-globe", "https://twitter.com/qntkhvn"]
+      ]
