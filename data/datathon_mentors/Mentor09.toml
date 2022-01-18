@@ -3,5 +3,5 @@ name = "Rebecca Burwei"
 organisation = "Mozilla"
 role = "Senior Data Scientist"
 social = [
-        ["fa-linkedin-in", "https://www.linkedin.com/in/rebecca-burwei/"]
+        ["fa-linkedin", "https://www.linkedin.com/in/rebecca-burwei/"]
       ]
