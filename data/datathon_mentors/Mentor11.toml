@@ -1,9 +1,9 @@
 img = "quang_nguyen_headshot.jpg"
 name = "Quang Nguyen"
 organisation = "Loyola University Chicago"
-role = "Masters student"
+role = "Lecturer"
 social = [
         ["fa-linkedin", "https://www.linkedin.com/in/mqnnguyen"],
         ["fa-twitter", "https://twitter.com/qntkhvn"],
-        ["fa-globe", "https://twitter.com/qntkhvn"]
+        ["fa-globe", "https://qntkhvn.netlify.app/"]
       ]
