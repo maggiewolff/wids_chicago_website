@@ -1,0 +1,7 @@
+img = "melissa_headshot.jpg"
+name = "Melissa Adrian"
+organisation = "University of Chicago"
+role = "PhD Student, Statistics "
+social = [
+        ["fa-linkedin", "www.linkedin.com/in/melissa-adrian"],
+      ]

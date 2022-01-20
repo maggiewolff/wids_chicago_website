@@ -1,0 +1,7 @@
+img = "daniela_headshot.jpg"
+name = "Daniela Matinho"
+organisation = "IRI"
+role = "Media Analytics Analyst"
+social = [
+        ["fa-linkedin", "https://www.linkedin.com/in/danielamatinho/"],
+      ]
