@@ -184,8 +184,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     bg = false
     title = "Datathon"
     subtitle="Participate in a datathon for social good!"
-    brief1="</br> WiDS Chicago Datathon Workshop is an independent event organized by WiDS Ambassadors in Chicago to coincide with the annual Women in Data Science (WiDS) Worldwide Datathon.""
-
+    brief1="</br> WiDS Chicago Datathon Workshop is an independent event organized by WiDS Ambassadors in Chicago to coincide with the annual Women in Data Science (WiDS) Worldwide Datathon."
     location= "__Dates__: The datathon will be held from January 7th-February 26th, 2022 on Kaggle with winners announced in early March 2022."
     #dates = "__Registration__: In addition to registering for the Datathon Kickoff in the Eventbrite below, you must register for the  <a href= 'https://airtable.com/shrLE1J7hVxuYAILv' > WiDS @ Stanford datathon </a> as well. "
     times= "__Datathon Kickoff!: Workshop and Team Formation__: On January 21th we will be holding an introduction to Kaggle workshop that will also provide time to form teams. Register for the event on the Eventbrite widget below."
