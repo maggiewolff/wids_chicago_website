@@ -1,9 +1,8 @@
-img = "Tammy_headshot.jpg"
-name = "Tammy Glazer"
-organisation = "DrivenData"
-role = "Data Scientist"
+img = "chengyin_eng_headshot.jpg"
+name = "Chengyin Eng"
+organisation = "Databricks"
+role = "Senior Data Science Consultant"
 social = [
-        ["fa-github", "https://github.com/tamara-glazer"],
-        ["fa-linkedin", "https://www.linkedin.com/in/tamara-glazer-44286776/"],
-        ["fa-rss", "https://public.tableau.com/profile/tammy.glazer#!/"]
+        ["fa-globe", "https://www.chengyineng.com/"],
+        ["fa-linkedin", "https://www.linkedin.com/in/cyeng/"]
       ]
