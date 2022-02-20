@@ -1,8 +1,0 @@
-img = "alicia_headshot.jpg"
-name = "Alicia Boyd"
-organisation = "Depaul University"
-role = "PhD Candidate,Computer Science"
-social = [
-        ["fa-rss", "https://www.aliciaeboyd.com/"],
-        ["fa-twitter", "https://twitter.com/Stippy_eep_eep"]
-      ]

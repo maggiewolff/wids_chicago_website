@@ -1,9 +1,0 @@
-img = "lorena_headshot.jpg"
-name = "Lorena Mesa"
-organisation = "Github"
-role = "Data Engineer"
-social = [
-        ["fa-github", "https://github.com/lorenanicole"],
-        ["fa-linkedin", "https://www.linkedin.com/in/lorenamesa"],
-        ["fa-rss", "https://lorenamesa.com/"]
-      ]

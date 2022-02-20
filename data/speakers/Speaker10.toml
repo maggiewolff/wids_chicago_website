@@ -1,8 +1,0 @@
-img = "vicky_headshot.jpg"
-name = "Vicky Kalogera"
-organisation = "Northwestern Dept. of Physics and Astronomy"
-role = "Daniel I. Linzer Distinguished University Professor "
-social = [
-        ["fa-linkedin", "https://www.linkedin.com/in/vicky-kalogera-8b58215"],
-        ["fa-rss", "https://sites.northwestern.edu/vickykalogera/"]
-      ]

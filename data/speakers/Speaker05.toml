@@ -1,9 +1,0 @@
-img = "lucia_headshot.jpg"
-name = "Lucia Petito"
-organisation = "Northwestern University Dept. of Preventative Medicine"
-role = "Assistant Professor"
-social = [
-        ["fa-twitter", "https://twitter.com/lucia_petito?lang=en"],
-        ["fa-linkedin", "https://www.linkedin.com/in/lucia-petito"],
-        ["fa-rss", "https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=45330"]
-      ]

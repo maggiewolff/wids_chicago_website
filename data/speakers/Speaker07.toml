@@ -1,8 +1,0 @@
-img = "tedora_headshot.jpg"
-name = "Teodora Szasz"
-organisation = "University of Chicago Research Computing Center"
-role = "Computational Scientist"
-social = [
-        ["fa-github", "https://github.com/lorenanicole"],
-        ["fa-linkedin", "https://www.linkedin.com/in/teodoraszasz/"]
-      ]

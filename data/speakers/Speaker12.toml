@@ -1,8 +1,0 @@
-img = "rebecca_headshot.jpg"
-name = "Rebecca BurWei"
-organisation = "Relativity"
-role = "Senior Data Scientist"
-social = [
-        ["fa-github", "https://github.com/rebecca-burwei"],
-        ["fa-linkedin", "https://www.linkedin.com/in/rebecca-burwei"]
-      ]
