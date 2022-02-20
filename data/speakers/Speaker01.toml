@@ -1,13 +1,5 @@
 img = "sarah_spicer-pecko_headshot.jpg"
 name = "Sarah Peko-Spicer (she/her)"
-organisation = "Air "
+organisation = "AIR "
 role = "Researcher"
-social = [
-        ["fa-rss", "https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=46049"],
-        ["fa-researchgate", "https://www.researchgate.net/scientific-contributions/Lutfiyya-N-Muhammad-2145654127"]
-      ]
-      
-[[params.footer.social]]
-  icon = "fa-researchgate"
-    url= "https://www.researchgate.net/scientific-contributions/Lutfiyya-N-Muhammad-2145654127"
-     
+
