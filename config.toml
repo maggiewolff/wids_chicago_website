@@ -103,7 +103,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     [[params.services.row.list]]
       icon = "fa-clock-o"
       title = "Details"
-      description = "Friday, March 11, 5:00-8:00 PM CST"
+      description = "Friday, March 11, 5:00-7:30 PM CST"
       url = "#"
 
     [[params.services.row.list]]
@@ -355,7 +355,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       name = "Zaynaib Giwa"
       position = "WiDS Ambassador"
       # For bio markdown and even multiline strings are available.
-      bio = """Data Science Coach <br/> Hacking 4 Justice"""
+      bio = """Data Analyst <br/> Invisible Institute"""
       social = [
         ["fa-linkedin", "https://www.linkedin.com/in/zaynaib-ola-giwa"],
         ["fa-github", "https://zaynaib.github.io/"]
