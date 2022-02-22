@@ -1,0 +1,7 @@
+img = "mechie_resized.jpg"
+name = "Mechie Nkengla, Ph.D."
+organisation = "Data Products LLC."
+role = "Chief Data Strategist"
+social = [
+        ["fa-linkedin", "https://www.linkedin.com/in/mechienkengla/"]
+      ]
