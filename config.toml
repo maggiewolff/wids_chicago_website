@@ -180,7 +180,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
   # Hackathon section
   [params.hackathon]
-    enable = true
+    enable = false
     bg = false
     title = "Datathon"
     subtitle="Participate in a datathon for social good!"
