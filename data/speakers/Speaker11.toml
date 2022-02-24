@@ -1,0 +1,7 @@
+img = "speaker-placeholder.jpg"
+name = "Emma Nechamkin"
+organisation = "Univesity of Chicago Crime Lab"
+role = "Data Scientist"
+social = [
+        ["fa-linkedin", "https://www.linkedin.com/in/emma-nechamkin-094a3b1a/"
+      ]

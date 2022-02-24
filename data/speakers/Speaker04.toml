@@ -1,0 +1,7 @@
+img = "speaker-placeholder.jpg"
+name = "Maura Foley"
+organisation = "Glassdoor"
+role = "Data Scientist"
+social = [
+        ["fa-linkedin", "https://www.linkedin.com/in/maura-foley-37b9b213/"]
+      ]

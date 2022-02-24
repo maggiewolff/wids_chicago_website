@@ -1,0 +1,7 @@
+img = "speaker-placeholder.jpg"
+name = "Madhuri Gupta"
+organisation = "Enova"
+role = "Lead Data Scientist"
+social = [
+        ["fa-linkedin", "https://www.linkedin.com/in/madhuri-gupta/"
+      ]

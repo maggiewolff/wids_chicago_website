@@ -1,0 +1,7 @@
+img = "speaker-placeholder.jpg"
+name = "Trina Reynolds-Tyler"
+organisation = "Invisible Institute"
+role = "Data Analyst"
+social = [
+        ["fa-linkedin", "https://www.linkedin.com/in/trina-reynolds-tyler-b857ba89/"]
+      ]
