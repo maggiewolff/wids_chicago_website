@@ -378,17 +378,22 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 
     [[params.clients]]
-      logo = "cdac-logo.jpg"
-      link = "https://cdac.uchicago.edu/"
-
-    [[params.clients]]
-      logo = "avatria_logo.png"
-      link = "https://www.avatria.com/"
+      logo = "dsi.png"
+      link = "http://datascience.uchicago.edu/"
 
 
     [[params.clients]]
       logo = "uchi-stat.png"
       link = "https://stat.uchicago.edu//"
+      
+    [[params.clients]]
+      logo = "uchi_cs_logo.png"
+      link = "https://cst.uchicago.edu//"
+      
+        
+    [[params.clients]]
+      logo = "loyola_uni_logo.png"
+      link = "https://www.luc.edu/math/index.shtml"
 
   [[params.clients]]
       logo = "CRUG_logo.png"
