@@ -1,0 +1,7 @@
+img = "speaker-placeholder.jpg"
+name = "Erika Salomon."
+organisation = "Espark Learning"
+role = "Lead Data Scientist"
+social = [
+        ["fa-linkedin", "https://www.linkedin.com/in/ecsalomon/"]
+      ]

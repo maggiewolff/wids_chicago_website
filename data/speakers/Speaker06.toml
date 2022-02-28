@@ -1,0 +1,8 @@
+img = "speaker-placeholder.jpg"
+name = "Maryellen Giger"
+organisation = "UChicago Crime Labs (Urban Labs)"
+role = "A.N. Pritzker Distinguished Service Professor of Radiology
+Committee on Medical Physics"
+social = [
+        ["fa-linkedin", "https://www.linkedin.com/in/maryellen-giger-3a1ab098/"]
+      ]

@@ -1,0 +1,7 @@
+img = "speaker-placeholder.jpg"
+name = "Melanie Simet"
+organisation = "CVS Health"
+role = "Analytics Advisor"
+social = [
+        ["fa-linkedin", "https://www.linkedin.com/in/melanie-simet/"]
+      ]
