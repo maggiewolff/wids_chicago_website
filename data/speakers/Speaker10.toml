@@ -1,7 +1,8 @@
 img = "speaker-placeholder.jpg"
 name = "Yue Li"
 organisation = "JP Morgan"
-role = "N/A"
+role = "Data Scientist"
 social = [
-        [
+        ["fa-linkedin", "https://www.linkedin.com/in/jessicayueli/"]
       ]
+
