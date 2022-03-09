@@ -376,6 +376,14 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # Replace them with your clients's logos.
     # Suggestion: .svg in the size of 280px*80px looks good
 
+      [[params.clients]]
+      logo = "roosevelt-logo.jpg"
+      link = "https://www.roosevelt.edu/"
+
+        [[params.clients]]
+      logo = "CRUG_logo.png"
+      link = "https://chicago-r-user-group.github.io/"
+
 
     [[params.clients]]
       logo = "dsi.png"
@@ -385,23 +393,16 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     [[params.clients]]
       logo = "uchi-stat.png"
       link = "https://stat.uchicago.edu//"
-      
+
     [[params.clients]]
       logo = "uchi_cs_logo.png"
       link = "https://cst.uchicago.edu//"
-      
-        
+
+
     [[params.clients]]
       logo = "loyola_uni_logo.png"
       link = "https://www.luc.edu/math/index.shtml"
 
-  [[params.clients]]
-      logo = "CRUG_logo.png"
-      link = "https://chicago-r-user-group.github.io/"
-
-  [[params.clients]]
-      logo = "roosevelt-logo.jpg"
-      link = "https://www.roosevelt.edu/"
 
   #[[params.clients]]
       #logo = "chicago_ASA.jpg"
