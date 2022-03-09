@@ -1,7 +1,8 @@
-img = "speaker-placeholder.jpg"
+img = "erika_salomon_headshot.jpg"
 name = "Erika Salomon"
 organisation = "Espark Learning"
 role = "Lead Data Scientist"
 social = [
-        ["fa-linkedin", "https://www.linkedin.com/in/ecsalomon/"]
+        ["fa-linkedin", "https://www.linkedin.com/in/ecsalomon/"],
+        ["fa-twitter", "https://twitter.com/ecsalomon"]
       ]
