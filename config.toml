@@ -160,6 +160,13 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       # Take ONLY the numeric string between "eid=" and "&ref=etckt"
       # Supply this string as the value to `eid` above
 
+  [params.mailinglist]
+    enable = true
+    title = "Sign up for our Mailing List!"
+    subtitle = "More information about WiDS Chicago future events!"
+    bg = true
+
+
   [params.tickettailor]
     enable = false
     title = "Register"
