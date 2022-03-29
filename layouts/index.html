@@ -46,6 +46,11 @@
   {{ partial "about.html" . }}
   {{ end }}
   
+   {{ if .Site.Params.mailinglist.enable }}
+  {{ partial "mailinglist.html" . }}
+  {{ end }}
+
+  
 
   {{ if .Site.Params.location.enable }}
   {{ partial "location.html" . }}
