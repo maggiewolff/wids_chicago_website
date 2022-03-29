@@ -37,6 +37,10 @@
   {{ partial "portfolio.html" . }}
   {{ end }}
 
+   {{ if .Site.Params.mailinglist.enable }}
+  {{ partial "mailinglist.html" . }}
+  {{ end }}
+  
   {{ if .Site.Params.schedule.enable }}
   {{ partial "schedule.html" . }}
   {{ end }}
@@ -46,9 +50,7 @@
   {{ partial "about.html" . }}
   {{ end }}
   
-   {{ if .Site.Params.mailinglist.enable }}
-  {{ partial "mailinglist.html" . }}
-  {{ end }}
+
 
   
 
