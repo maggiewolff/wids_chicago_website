@@ -54,7 +54,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     logo = "wids_chicago_logo.jpg"
     services = "About"
     portfolio = "Talks"
-    hackathon = "Datathon"
+    #hackathon = "Datathon"
     eventbrite = "Register"
     schedule = "Schedule"
     team = "People"
@@ -71,10 +71,10 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     #  weight = 10
 
     # postpended links
-    [[menu.postpend]]
-      url = "https://widschicago.org/#hackathon"
-      name = "Datathon"
-      weight = 10
+    #[[menu.postpend]]
+    #  url = "https://widschicago.org/#hackathon"
+    #  name = "Datathon"
+    #  weight = 10
 
     [[menu.postpend]]
       url = "http://widsconference.org/"
@@ -87,7 +87,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
     title = "Women in Data Science Chicago"
-    subtitle = "A conference showcasing womxn data scientists in Chicago on Friday, March 11th"
+    subtitle = "A conference showcasing women data scientists in Chicago on Friday, March 11th"
     bg = true
     buttonText = "Tell me more"
 
@@ -103,14 +103,14 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     [[params.services.row.list]]
       icon = "fa-clock-o"
       title = "Details"
-      description = "Friday, March 11, 5:00-7:30 PM CST"
+      description = "Friday, March 24, 5:00-8:30 PM CST"
       url = "#"
 
-    [[params.services.row.list]]
-      icon = "fa-laptop"
-      title = "Hands on"
-      description = "Participate in a Datathon-- creating models to predict building energy consumption"
-      url = "https://widschicago.org/#hackathon"
+    #[[params.services.row.list]]
+    #  icon = "fa-laptop"
+    #  title = "Hands on"
+    #  description = "Participate in a Datathon-- creating models to predict building energy consumption"
+    #  url = "https://widschicago.org/#hackathon"
 
     [[params.services.row.list]]
       icon = "fa-universal-access"
@@ -152,9 +152,9 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   [params.eventbrite]
     enable = true
     title = "Register"
-    subtitle = "WiDS Chicago on 3/11"
+    subtitle = "WiDS Chicago on 3/24"
     bg = true
-    eid = "272855176177"
+    eid = "535999477867"
       # Go to https://www.eventbrite.co.uk/support/articles/en_US/How_To/how-to-sell-eventbrite-tickets-registrations-on-your-website-using-embeddable-widgets?lg=en_GB
       # Follow instructions to discover your 'Website Integration' embeddable iframe
       # Take ONLY the numeric string between "eid=" and "&ref=etckt"
