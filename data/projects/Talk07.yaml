@@ -1,0 +1,14 @@
+modalID: 7
+title: "**Networking and Cocktail Hour**"
+subtitle: "First Subtitle"
+date: 2023-03-24
+startsAt: 7:30
+endsAt: 8:30 
+img: roundicons.png
+preview: faceholder.png
+client: 
+clientLink: "#"
+category: Category 7
+description: "Describe 7"
+talk: true
+
