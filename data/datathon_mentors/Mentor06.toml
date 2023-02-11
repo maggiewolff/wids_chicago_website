@@ -1,8 +1,0 @@
-img = "erin_headshot.jpg"
-name = "Erin Cox"
-organisation = "Novak Group in the Center for Interdisciplinary Exploration and Research in Astrophysics (CIERA) at Northwestern University"
-role = "Postdoctoral Associate"
-social = [
-        ["fa-linkedin", "https://www.linkedin.com/in/eringcox-phd/"],
-        ["fa-github", "https://github.com/eringcox"]
-      ]

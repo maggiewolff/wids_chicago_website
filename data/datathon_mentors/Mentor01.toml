@@ -1,8 +1,0 @@
-img = "Christina_M_headshot.jpg"
-name = "Christina Maimone"
-organisation = "Northwestern University IT Research Computing Services"
-role = "Data Scientist"
-social = [
-        ["fa-linkedin", "https://www.linkedin.com/public-profile/in/christina-maimone-302a3a40"],
-        ["fa-github", "https://github.com/cmaimone"]
-      ]

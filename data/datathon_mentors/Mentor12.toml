@@ -1,9 +1,0 @@
-img = "katie_headshot.jpg"
-name = "Katie Dixon"
-organisation = "University of Chicago"
-role = "PhD Student, Ecology and Evolution "
-social = [
-        ["fa-linkedin", "https://www.linkedin.com/in/katherine-dixon-81608387/"],
-        ["fa-twitter", "https://twitter.com/kdixon_"],
-        ["fa-globe", "https://kpd19.github.io/"]
-      ]

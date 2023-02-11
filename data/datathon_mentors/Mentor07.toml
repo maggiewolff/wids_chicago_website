@@ -1,8 +1,0 @@
-img = "Colby_headshot.jpg"
-name = "Colby Witherup Wood"
-organisation = "Northwestern University IT Research Computing Services"
-role = "Data Scientist"
-social = [
-        ["fa-linkedin", "https://www.linkedin.com/in/colby-witherup-wood-056635197"],
-        ["fa-rss", "https://sites.northwestern.edu/researchcomputing/author/cew588/"]
-      ]
