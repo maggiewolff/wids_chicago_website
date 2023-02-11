@@ -287,39 +287,15 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # All team member's pictures are stored under 'static/img/team'.
     # Replace them with your own too.
     # Suggestion: Image size should be at least 360px*360px or the alignment might be affected.
-    [[params.team.members]]
-      img = "Abby_headshot.jpg"
-      name = "Abby Smith"
-      position = "WiDS Ambassador"
-      # For bio markdown and even multiline strings are available.
-      bio = """PhD Candidate in Statistics <br/> Northwestern Women in Statistics (WIST)"""
-      social = [
-        ["fa-twitter", "https://twitter.com/flabbysmith"],
-        ["fa-github", "https://github.com/abbylsmith"],
-        ["fa-linkedin", "https://www.linkedin.com/in/abby-smith-55312a200/"],
-        ["fa-rss", "https://abbylsmith.me"]
-      ]
+
 
     [[params.team.members]]
-      img = "Jane_headshot.jpg"
-      name = "Jane Zanzig"
+      img = "Natalie_Rubenstein.jpg"
+      name = "Natalie Rubenstein"
       position = "WiDS Ambassador"
-      bio = """Senior Data Scientist and Designer <br/> IDEO"""
+      bio = """Recuiting Manager <br/> Burtch Works"""
       social = [
-        ["fa-linkedin", "https://www.linkedin.com/in/jane-zanzig/"]
-      ]
-
-    [[params.team.members]]
-      img = "Abby_stevens_headshot.jpg"
-      name = "Abby Stevens"
-      position = "WiDS Ambassador"
-      bio = """PhD Candidate in Statistics <br/> University of Chicago"""
-      social = [
-        ["fa-twitter", "https://twitter.com/abbystvns"],
-        ["fa-github", "https://github.com/abbystvns"],
-        ["fa-linkedin", "https://www.linkedin.com/in/abbyestevens/"],
-        ["fa-instagram", "https://www.instagram.com/abbbyst/"],
-        ["fa-rss", "https://abbystevens.com"]
+        ["fa-linkedin", "https://www.linkedin.com/in/natalie-rubenstein-41103b56/"]
       ]
          [[params.team.members]]
       img = "Mena_headshot.jpg"
@@ -334,7 +310,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 
       [[params.team.members]]
-      img = "angelina_headshot.jpg"
+      img = "angelina_leigh.jpg"
       name = "Angelina Leigh"
       position = "WiDS Ambassador"
       bio = """Data Scientist <br/> Hitachi Solutions"""
@@ -346,7 +322,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 
       [[params.team.members]]
-      img = "devanshi_headshot.jpg"
+      img = "devanshi_verma.jpg"
       name = "Devanshi Verma"
       position = "WiDS Ambassador"
       # For bio markdown and even multiline strings are available.
@@ -357,14 +333,13 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       ]
 
       [[params.team.members]]
-      img = "zaynaib_headshot.jpg"
-      name = "Zaynaib Giwa"
+      img = "maggie_wolff.jfif"
+      name = "Maggie Wolff"
       position = "WiDS Ambassador"
       # For bio markdown and even multiline strings are available.
-      bio = """Data Analyst <br/> Invisible Institute"""
+      bio = """Data Scientist <br/> Egencia"""
       social = [
-        ["fa-linkedin", "https://www.linkedin.com/in/zaynaib-ola-giwa"],
-        ["fa-github", "https://zaynaib.github.io/"]
+        ["fa-linkedin", "https://www.linkedin.com/in/magwolff/"]
       ]
 
 
@@ -453,11 +428,11 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # add some custom JS script to finish the implementation.
     # postURL = "https://example.com/mailout/"
 
-    email = "als1@u.northwestern.edu"
+    email = "menawhalen@gmail.com"
 
     # Success and error message overwrite for async contact form
     thanks = "Thank you for awesomely contacting WiDS Chicago."
-    error = "Message could not be send. Please contact us at als1@u.northwestern.edu instead."
+    error = "Message could not be send. Please contact us at menawhalen@gmail.com instead."
 
     [params.contact.captcha]
       # sitekey = ""
