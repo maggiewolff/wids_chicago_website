@@ -161,7 +161,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       # Supply this string as the value to `eid` above
 
   [params.mailinglist]
-    enable = true
+    enable = false
     title = "Sign up for our Mailing List!"
     subtitle = "More information about WiDS Chicago future events!"
     bg = true

@@ -1,0 +1,13 @@
+modalID: 1
+title: "<a >**Welcome**</a>"
+subtitle: ""
+date: 2023-03-24
+startsAt: 5:00
+endsAt: 5:30
+img: 
+preview: faceholder.png
+client: 
+clientLink: "#"
+category: Category 1
+description: "Describe 1"
+talk: true
