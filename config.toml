@@ -87,7 +87,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
     title = "Women in Data Science Chicago"
-    subtitle = "A conference showcasing women data scientists in Chicago on Friday, March 11th"
+    subtitle = "A conference showcasing women data scientists in Chicago on Friday, March 24th"
     bg = true
     buttonText = "Tell me more"
 
