@@ -1,8 +1,8 @@
-img = "chengyin_eng_headshot.jpg"
-name = "Chengyin Eng"
-organisation = "Databricks"
-role = "Senior Data Science Consultant"
-social = [
-        ["fa-globe", "https://www.chengyineng.com/"],
-        ["fa-linkedin", "https://www.linkedin.com/in/cyeng/"]
-      ]
+img = "speaker-placeholder.jpg"
+name = "Svetlana Levitan"
+organisation = "Walgreens Boots Alliance"
+role = "Principal Algorithms and Machine Learning Scientist"
+#social = [
+#        ["fa-globe", " "],
+#        ["fa-linkedin", " "]
+#      ]
