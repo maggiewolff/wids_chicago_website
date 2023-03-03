@@ -1,7 +1,7 @@
-img = "trina_tyler_headshot.jpg"
-name = "Trina Reynolds-Tyler"
-organisation = "Invisible Institute"
-role = "Data Analyst"
-social = [
-        ["fa-linkedin", "https://www.linkedin.com/in/trina-reynolds-tyler-b857ba89/"]
-      ]
+img = "speaker-placeholder.jpg"
+name = "Bo Peng"
+organisation = "IDEO"
+role = ""
+#social = [
+#        ["fa-linkedin", " "]
+#      ]

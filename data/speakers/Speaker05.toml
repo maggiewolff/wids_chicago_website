@@ -1,8 +1,8 @@
-img = "erika_salomon_headshot.jpg"
-name = "Erika Salomon"
-organisation = "Espark Learning"
-role = "Lead Data Scientist"
-social = [
-        ["fa-linkedin", "https://www.linkedin.com/in/ecsalomon/"],
-        ["fa-twitter", "https://twitter.com/ecsalomon"]
-      ]
+img = "speaker-placeholder.jpg"
+name = "Reshma Krishna"
+organisation = "Numerator"
+role = "Sr Director, Advertising Intelligence - DS/AI Product Management "
+#social = [
+#        ["fa-linkedin", " "],
+#       ["fa-twitter", " "]
+#     ]

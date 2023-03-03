@@ -1,8 +1,8 @@
-img = "yue_li_headshot.jpg"
-name = "Yue Li"
-organisation = "JP Morgan"
-role = "Data Scientist"
+img = "speaker-placeholder.jpg"
+name = " "
+organisation = " "
+role = " "
 social = [
-        ["fa-linkedin", "https://www.linkedin.com/in/jessicayueli/"]
+        ["fa-linkedin", " "]
       ]
 

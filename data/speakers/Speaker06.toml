@@ -1,7 +1,7 @@
-img = "maryellen_giger_headshot.jpg"
-name = "Maryellen Giger"
-organisation = "University of Chicago"
-role = "A.N. Pritzker Distinguished Service Professor of Radiology"
-social = [
-        ["fa-linkedin", "https://www.linkedin.com/in/maryellen-giger-3a1ab098/"]
-      ]
+img = "speaker-placeholder.jpg"
+name = "Kristian Lum"
+organisation = " "
+role = " "
+#social = [
+#        ["fa-linkedin", " "]
+#      ]

@@ -1,7 +1,7 @@
-img = "mechie_resized.jpg"
-name = "Mechie Nkengla, Ph.D."
-organisation = "Data Products LLC."
-role = "Chief Data Strategist"
-social = [
-        ["fa-linkedin", "https://www.linkedin.com/in/mechienkengla/"]
-      ]
+img = "speaker-placeholder.jpg"
+name = "Ningzi Li"
+organisation = "UChicago CDAC"
+#role = ""
+#social = [
+#        ["fa-linkedin", " "]
+#      ]

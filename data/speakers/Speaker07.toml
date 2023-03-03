@@ -1,7 +1,7 @@
-img = "melanie_simet_headshot.jpg"
-name = "Melanie Simet"
-organisation = "CVS Health"
-role = "Analytics Advisor"
-social = [
-        ["fa-linkedin", "https://www.linkedin.com/in/melanie-simet/"]
-      ]
+img = "speaker-placeholder.jpg"
+name = "Sarah Zimmerman"
+organisation = "Quora"
+role = " "
+#social = [
+#        ["fa-linkedin", " "]
+#      ]

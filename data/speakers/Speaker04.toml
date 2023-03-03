@@ -1,7 +1,7 @@
-img = "maura_foley_headshot.jpg"
-name = "Maura Foley"
-organisation = "Glassdoor"
-role = "Data Scientist"
-social = [
-        ["fa-linkedin", "https://www.linkedin.com/in/maura-foley-37b9b213/"]
-      ]
+img = "speaker-placeholder.jpg"
+name = "Onyinyechi Daniel"
+organisation = "Highmark Health"
+role = "VP, Data & Analytics Strategy "
+#social = [
+#        ["fa-linkedin", " "]
+#      ]

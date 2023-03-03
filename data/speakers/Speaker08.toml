@@ -1,7 +1,7 @@
-img = "madhuri_gupta_headshot.jpg"
-name = "Madhuri Gupta"
-organisation = "Enova"
-role = "Lead Data Scientist"
-social = [
-        ["fa-linkedin", "https://www.linkedin.com/in/madhuri-gupta/"]
-      ]
+img = "speaker-placeholder.jpg"
+name = "Alice Zhao"
+organisation = "A Dash of Data"
+role = "Consultant"
+#social = [
+#        ["fa-linkedin", " "]
+#      ]
