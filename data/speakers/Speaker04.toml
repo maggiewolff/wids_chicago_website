@@ -1,7 +1,7 @@
-img = "speaker-placeholder.jpg"
+img = "OnyinyeHeadshot.jpg"
 name = "Onyinyechi Daniel"
 organisation = "Highmark Health"
 role = "VP, Data & Analytics Strategy "
-#social = [
-#        ["fa-linkedin", " "]
-#      ]
+social = [
+        ["fa-linkedin", "https://www.linkedin.com/in/onyinye-enyia-daniel-phd-b262b761/"]
+      ]

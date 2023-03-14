@@ -1,7 +1,7 @@
 img = "speaker-placeholder.jpg"
 name = "Alice Zhao"
 organisation = "A Dash of Data"
-role = "Consultant"
-#social = [
-#        ["fa-linkedin", " "]
-#      ]
+role = "Data Science Instructor & Author"
+social = [
+        ["fa-linkedin", "https://www.linkedin.com/in/alicexzhao/"]
+      ]

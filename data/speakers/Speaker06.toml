@@ -1,7 +1,7 @@
 img = "speaker-placeholder.jpg"
 name = "Kristian Lum"
-organisation = " "
+organisation = "UChicago Data Science Institiute"
 role = " "
-#social = [
-#        ["fa-linkedin", " "]
-#      ]
+social = [
+        ["fa-linkedin", "https://www.linkedin.com/in/kristian-lum-01365055/"]
+      ]

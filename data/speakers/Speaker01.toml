@@ -1,5 +1,7 @@
-img = "speaker-placeholder.jpg"
+img = "Nadine.jpg"
 name = "Nadine Merheb"
 organisation = "Chicago Bulls"
 role = "Manager of Data Strategy & Analytics "
-
+social = [
+        ["fa-linkedin", "https://www.linkedin.com/in/nadinemerheb/"]
+      ]

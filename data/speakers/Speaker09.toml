@@ -1,7 +1,7 @@
-img = "speaker-placeholder.jpg"
+img = "BoPeng_headshot_insideIDEO.png"
 name = "Bo Peng"
 organisation = "IDEO"
-role = ""
-#social = [
-#        ["fa-linkedin", " "]
-#      ]
+role = "Sr Director, Data Science"
+social = [
+        ["fa-linkedin", "https://www.linkedin.com/in/peng-bo/"]
+      ]

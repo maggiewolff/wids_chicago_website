@@ -1,8 +1,0 @@
-img = "speaker-placeholder.jpg"
-name = " "
-organisation = " "
-role = " "
-social = [
-        ["fa-linkedin", " "]
-      ]
-

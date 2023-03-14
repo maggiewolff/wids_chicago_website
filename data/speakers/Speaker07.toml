@@ -1,7 +1,7 @@
-img = "speaker-placeholder.jpg"
+img = "Sarah Photo.jpg"
 name = "Sarah Zimmerman"
-organisation = "Quora"
-role = " "
-#social = [
-#        ["fa-linkedin", " "]
-#      ]
+organisation = "Figma"
+role = "Senior Data Scientist"
+social = [
+        ["fa-linkedin", "https://www.linkedin.com/in/sarahkuczmarski/"]
+      ]
