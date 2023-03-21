@@ -1,8 +1,7 @@
-img = "speaker-placeholder.jpg"
-name = "Reshma Krishna"
-organisation = "Numerator"
-role = "Sr Director, Advertising Intelligence - DS/AI Product Management "
-#social = [
-#        ["fa-linkedin", " "],
-#       ["fa-twitter", " "]
-#     ]
+img = "Jayashree_Venkatesh.jpg"
+name = "Jayashree	Venkatesh"
+organisation = "Datametica"
+role = "Director, Cloud Migrations"
+social = [
+        ["fa-linkedin", "https://www.linkedin.com/in/jayashree-venkatesh-3909421/"]
+     ]

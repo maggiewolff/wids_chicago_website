@@ -1,7 +1,7 @@
-img = "Nadine.jpg"
-name = "Nadine Merheb"
-organisation = "Chicago Bulls"
-role = "Manager of Data Strategy & Analytics "
+img = "speaker-placeholder.jpg"
+name = "Elena Kelsh"
+organisation = "Chicago Blackhawks"
+role = "Manager Analytics "
 social = [
-        ["fa-linkedin", "https://www.linkedin.com/in/nadinemerheb/"]
+        ["fa-linkedin", "https://www.linkedin.com/in/elena-kelsh-62040799/"]
       ]
